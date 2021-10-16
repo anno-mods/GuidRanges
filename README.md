@@ -44,10 +44,10 @@ If you need help adding your range or want to talk, you can join us on [Discord]
 
 If you want to contribute your range, we suggest the following:
 
-1. Fork the [official repository](https://github.com/taubenangriff/GuidRanges/fork)
+1. Fork the [official repository](https://github.com/anno-mods/GuidRanges/fork)
 2. Edit the ```README.md``` on your fork
 3. Add your GUID range to the table
-4. Submit a [pull request](https://github.com/taubenangriff/GuidRanges/pulls)
+4. Submit a [pull request](https://github.com/anno-mods/GuidRanges/pulls)
 
 ## Community GUID ranges (Deutsche Version)
 
@@ -61,7 +61,7 @@ Wenn du dabei Hilfe benötigst, deinen eigenen GUID-Bereich hinzuzufügen, oder 
 
 Deinen eigenen Bereich kannst du wie folgt hinzufügen: 
 
-1. Erstelle einen Fork des [Offiziellen Repository](https://github.com/taubenangriff/GuidRanges/fork)
+1. Erstelle einen Fork des [Offiziellen Repository](https://github.com/anno-mods/GuidRanges/fork)
 2. Barbeite ```README.md``` in deinem Fork
 3. Füge deine GUID-Range zu der oben stehenden Tabelle hinzu
-4. Erstelle einen [Pull Request](https://github.com/taubenangriff/GuidRanges/pulls)
+4. Erstelle einen [Pull Request](https://github.com/anno-mods/GuidRanges/pulls)
