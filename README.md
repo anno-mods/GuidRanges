@@ -23,13 +23,14 @@
 | Serp's Mods     | 1.500.000.000 | 1.500.010.000 |
 | Jakob           | 1.500.010.001 | 1.500.010.999 |
 | Fam             | 1.660.010.000 | 1.660.019.999 |
+| HierOnimus      | 1.742.000.000 | 1.742.009.999 |  
 | Lady Meridonia  | 1.777.650.000 | 1.777.659.999 |
 | DonnyBresko     | 1.800.000.100 | 1.800.002.099 |
 | JohnSpoc        | 1.888.888.000 | 1.888.988.000 |
 | Incipium        | 1.998.000.000 | 1.998.999.999 |
 | Ghostbuster     | 2.000.000.000 | 2.000.099.999 |
 | XAN             | 2.000.150.000 | 2.000.259.999 |
-| Phloup          | 2.122.330.000 | 2.122.339.999
+| Phloup          | 2.122.330.000 | 2.122.339.999 |
 
 [Ubisoft](https://anno-union.com/en/new-anno-union-history-edition-update-anno-afternoon/) has given us an official *safe* range in which we can safely choose new GUIDs! 
 
