@@ -32,6 +32,7 @@
 | Taludas         | 1.999.000.000 | 1.999.999.999 |
 | Ghostbuster     | 2.000.000.000 | 2.000.099.999 |
 | XAN             | 2.000.150.000 | 2.000.259.999 |
+| Sir Ludicrous   | 2.100.000.000 | 2.100.199.999 |
 | Phloup          | 2.122.330.000 | 2.122.339.999 |
 
 [Ubisoft](https://anno-union.com/en/new-anno-union-history-edition-update-anno-afternoon/) has given us an official *safe* range in which we can safely choose new GUIDs! 
