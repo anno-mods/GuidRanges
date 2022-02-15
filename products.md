@@ -2,7 +2,7 @@
 | - | - | - |
 | 1440003 | Plastic | New Horizons |
 | 1440004 | Radios | New Horizons |
-| 1440005 | Milk | New Horizons |
+| 1440005 | Milk | New Horizons, Extra Goods Collection |
 | 1440007 | Pens | New Horizons |
 | 1440010 | Radio Signal Detectors | New Horizons |
 | 1440014 | Blue Cheese | New Horizons |
@@ -31,7 +31,7 @@
 | 1440219 | Duck Meals | New Horizons |
 | 1440221 | Aluminium | New Horizons |
 | 1440223 | Soy | New Horizons |
-| 1440224 | Hemp | New Horizons |
+| 1440224 | Hemp | New Horizons, Extra Goods Collection |
 | 1440225 | Jimbei Clothing | New Horizons |
 | 1440226 | Sturgeon | New Horizons |
 | 1440229 | Perfume | New Horizons |
@@ -44,3 +44,13 @@
 | 1440502 | Alcohol | New Horizons |
 | 1440503 | Luxury Items | New Horizons |
 | 1440504 | Weapons | New Horizons |
+| 1500010150 | Wooden Accessories | Extra Goods Collection |
+| 1500010102 | Cheese | Extra Goods Collection |
+| 1500010105 | Olives | Extra Goods Collection |
+| 1500010106 | Olive Soap | Extra Goods Collection |
+| 1500010153 | Tools | Extra Goods Collection |
+| 1500010120 | Canned Fish | Extra Goods Collection |
+| 1500010127 | Suits | Extra Goods Collection |
+| 1500010156 | Bottled Beer | Extra Goods Collection |
+
+You find Extra Goods Collection and more documentation as part of [Jakob's mods on GitHub](https://github.com/jakobharder/anno-1800-jakobs-mods).
