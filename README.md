@@ -35,7 +35,7 @@
 | Gilded Wraith   | 2.000.260.000 | 2.000.269.999 |
 | Sir Ludicrous   | 2.100.000.000 | 2.100.199.999 |
 | Phloup          | 2.122.330.000 | 2.122.339.999 |
-
+| Maliatchi       | 2.122.340.000 | 2.122.349.999 |
 [Ubisoft](https://anno-union.com/en/new-anno-union-history-edition-update-anno-afternoon/) has given us an official *safe* range in which we can safely choose new GUIDs! 
 
 You can pick from the following *safe* GUID range: **1.337.471.142 - 2.147.483.647**
