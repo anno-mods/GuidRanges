@@ -42,7 +42,7 @@
 | Sir Ludicrous   | 2.100.120.000 | 2.100.199.999 |
 | Phloup          | 2.122.330.000 | 2.122.339.999 |
 | Maliatchi       | 2.122.340.000 | 2.122.340.999 |
-| Dreamfisher       | 2.122.350.000 | 2.122.350.199 |
+| Dreamfisher       | 2.122.350.000 | 2.122.350.999 |
 
 
 [Ubisoft](https://anno-union.com/en/new-anno-union-history-edition-update-anno-afternoon/) has given us an official *safe* range in which we can safely choose new GUIDs! 
