@@ -1,5 +1,15 @@
 ## Community GUID ranges (Deutsche Version unten)
 
+### Personal range
+
+If you do not publish mods, but want to have some safe GUIDs to use for personal usage, you can use the `Personal use` range.
+
+| User            |      Start ID |        End ID |
+| :-------------- | ------------: | ------------: |
+| *Personal use*  | 2.001.000.000 | 2.001.009.999 | 
+
+### Public ranges
+
 | User            |      Start ID |        End ID |
 | :-------------- | ------------: | ------------: |
 | Fishboss        |       850.000 |       859.999 |
@@ -37,7 +47,7 @@
 | Ghostbuster     | 2.000.000.000 | 2.000.099.999 |
 | XAN             | 2.000.150.000 | 2.000.259.999 |
 | Gilded Wraith   | 2.000.260.000 | 2.000.269.999 |
-| *Personal use* | 2.001.000.000 | 2.001.009.999 | 
+| *Personal use*  | 2.001.000.000 | 2.001.009.999 | 
 | Sir Ludicrous   | 2.100.000.000 | 2.100.114.999 |
 | Lion053         | 2.100.115.000 | 2.100.119.999 |
 | Sir Ludicrous   | 2.100.120.000 | 2.100.199.999 |
@@ -54,11 +64,7 @@ You can pick from the following *safe* GUID range: **1.337.471.142 - 2.147.483.6
 
 > Older Mods like *Spice it Up* will still use *older and unsafe* GUID ranges, but they will not be changed due to savegame compability. 
 
-If you do not publish mods, but want to have some safe GUIDs to use for personal usage, you can use the `Personal use` range.
-
 If you need help adding your range or want to talk, you can join us on [Discord](https://discord.gg/KEVaVby)
-
-
 
 
 If you want to contribute your range, we suggest the following:
