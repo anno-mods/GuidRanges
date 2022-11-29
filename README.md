@@ -37,6 +37,7 @@
 | Ghostbuster     | 2.000.000.000 | 2.000.099.999 |
 | XAN             | 2.000.150.000 | 2.000.259.999 |
 | Gilded Wraith   | 2.000.260.000 | 2.000.269.999 |
+| *Personal use* | 2.001.000.000 | 2.001.009.999 | 
 | Sir Ludicrous   | 2.100.000.000 | 2.100.114.999 |
 | Lion053         | 2.100.115.000 | 2.100.119.999 |
 | Sir Ludicrous   | 2.100.120.000 | 2.100.199.999 |
@@ -52,6 +53,8 @@
 You can pick from the following *safe* GUID range: **1.337.471.142 - 2.147.483.647**
 
 > Older Mods like *Spice it Up* will still use *older and unsafe* GUID ranges, but they will not be changed due to savegame compability. 
+
+If you do not publish mods, but want to have some safe GUIDs to use for personal usage, you can use the `Personal use` range.
 
 If you need help adding your range or want to talk, you can join us on [Discord](https://discord.gg/KEVaVby)
 
@@ -72,6 +75,8 @@ If you want to contribute your range, we suggest the following:
 Aus dem folgenden Bereich kann gewählt werden: **1.337.471.142 - 2.147.483.647**
 
 > Ältere Mods wie *Spice it Up* verwenden auch *alte und unsichere* GUID-Bereiche, da sie vor Bekanntgabe des offiziellen Bereiches erstellt worden sind. Diese werden aus Kompabilitätsgründen mit alten Spielständen nicht angepasst. 
+
+Wenn du keine Mods veröffentlichst, aber für persönliche Veränderungen sichere GUIDs haben willst, kanns du Nummern aus dem `Personal use`-Bereich nehmen.
 
 Wenn du dabei Hilfe benötigst, deinen eigenen GUID-Bereich hinzuzufügen, oder einfach reden willst, trete uns doch auf [Discord](https://discord.gg/KEVaVby) bei.
 
