@@ -58,6 +58,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Dreamfisher     | 2.122.350.000 | 2.122.350.999 |
 | Ricky/MrKoekie     | 2.122.360.000 | 2.122.369.999 |
 
+
 [Ubisoft](https://anno-union.com/en/new-anno-union-history-edition-update-anno-afternoon/) has given us an official *safe* range in which we can safely choose new GUIDs! 
 
 You can pick from the following *safe* GUID range: **1.337.471.142 - 2.147.483.647**
