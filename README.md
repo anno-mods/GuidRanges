@@ -51,12 +51,12 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Sir Ludicrous   | 2.100.000.000 | 2.100.114.999 |
 | Lion053         | 2.100.115.000 | 2.100.119.999 |
 | Sir Ludicrous   | 2.100.120.000 | 2.100.199.999 |
+| Lirvan          | 2.141.592.000 | 2.141.593.999 |
 | Phloup          | 2.122.330.000 | 2.122.339.999 |
 | Maliatchi       | 2.122.340.000 | 2.122.340.999 |
 | GaiusG          | 2.122.341.000 | 2.122.341.999 |
 | Dreamfisher     | 2.122.350.000 | 2.122.350.999 |
 | Ricky/MrKoekie     | 2.122.360.000 | 2.122.369.999 |
-| Lirvan          | 2.141.592.000 | 2.141.593.000 |
 
 [Ubisoft](https://anno-union.com/en/new-anno-union-history-edition-update-anno-afternoon/) has given us an official *safe* range in which we can safely choose new GUIDs! 
 
