@@ -74,6 +74,8 @@
 | 94 | New Horizon | Quay System Asia Base |
 | 95 | New Horizon | Quay System Asia Base Invisible |
 | 96 | New Horizon | Quay System Asia Base Buildable |
+| 100 | Jakob | NW Stone Pavement NW Greenery |
+| 101 | Jakob | OW Stone Concrete Industry |
 | 121 | New Horizon | Simple Street Asia |
 | 122 | New Horizon | Fast Street Asia |
 | 190 | New Horizon | Fence Field 01 |
