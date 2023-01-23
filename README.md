@@ -17,6 +17,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Alucard         |       940.000 |       945.750 |
 | Spice it Up     |       976.000 |       976.999 |
 | New Horizons    |     1.337.000 |     1.447.999 |
+| Combat Overhaul |     6.700.000 |     6.870.033 |
 | Spice it Up     |     8.855.000 |     8.857.999 |
 | WalGier         |     8.877.200 |     8.877.500 |
 | New Horizons    |    13.370.000 |    15.522.999 |
