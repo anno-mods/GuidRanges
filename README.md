@@ -36,6 +36,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Jakob           | 1.500.010.001 | 1.500.012.999 |
 | bergi           | 1.500.100.000 | 1.500.100.999 |
 | UhrMensch       | 1.500.110.000 | 1.500.112.999 |
+| HerrTurTur      | 1.500.113.000 | 1.500.113.999 |
 | Gensho          | 1.500.200.000 | 1.500.200.999 |
 | Qurila          | 1.500.300.000 | 1.500.301.999 |
 | S1LV3R-p0tat0   | 1.510.000.000 | 1.510.003.000 |
