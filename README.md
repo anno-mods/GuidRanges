@@ -40,6 +40,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Gensho          | 1.500.200.000 | 1.500.200.999 |
 | Qurila          | 1.500.300.000 | 1.500.301.999 |
 | S1LV3R-p0tat0   | 1.510.000.000 | 1.510.003.000 |
+| Jaradis         | 1.554.900.000 | 1.554.999.999 |
 | Drakkam         | 1.555.000.000 | 1.556.000.000 |
 | Fam             | 1.660.010.000 | 1.660.019.999 |
 | Hier0nimus      | 1.742.000.000 | 1.742.999.999 |  
