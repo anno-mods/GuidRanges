@@ -65,6 +65,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Ricky/MrKoekie     | 2.122.360.000 | 2.122.369.999 |
 | Quentfr21/Moidu21     | 2.122.380.000 | 2.122.389.999 |
 | altmarkwilly     | 2.122.390.000 | 2.122.390.999 |
+| StreaMRoLLeR     | 2.130.000.000 | 2.130.000.999 |
 
 [Ubisoft](https://anno-union.com/en/new-anno-union-history-edition-update-anno-afternoon/) has given us an official *safe* range in which we can safely choose new GUIDs! 
 
