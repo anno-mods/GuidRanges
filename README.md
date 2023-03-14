@@ -23,6 +23,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | New Horizons    |    13.370.000 |    15.522.999 |
 | Barthi82        |    19.820.000 |    19.829.999 |
 | Spice it Up 2.8 |    99.334.100 |    99.334.199 |
+| Hackner         |   103.690.000 | 103.699.999 |
 | New Horizons    |   133.700.000 |   133.700.999 |
 | Harlekin        | 1.337.472.000 | 1.337.472.999 |
 | Lethani         | 1.337.499.000 | 1.337.499.999 |
@@ -58,6 +59,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Sir Ludicrous   | 2.100.000.000 | 2.100.114.999 |
 | Lion053         | 2.100.115.000 | 2.100.119.999 |
 | Sir Ludicrous   | 2.100.120.000 | 2.100.199.999 |
+| Hackner         | 2.103.690.000 | 2.103.699.999 |
 | Lirvan          | 2.141.592.000 | 2.141.593.999 |
 | Phloup          | 2.122.330.000 | 2.122.339.999 |
 | Maliatchi       | 2.122.340.000 | 2.122.340.999 |
