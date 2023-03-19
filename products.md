@@ -2,7 +2,7 @@
 | - | - | - |
 | 1440003 | Plastic | New Horizons |
 | 1440004 | Radios | New Horizons |
-| 1440005 | Milk | New Horizons, Extra Goods Collection |
+| 1440005 | (Obsolete) Milk | New Horizons, Extra Goods Collection |
 | 1440007 | Pens | New Horizons |
 | 1440010 | Radio Signal Detectors | New Horizons |
 | 1440014 | Blue Cheese | New Horizons |
@@ -10,7 +10,7 @@
 | 1440017 | Peppercorns | New Horizons |
 | 1440018 | Black Pepper Powder | New Horizons |
 | 1440019 | Caviar | New Horizons |
-| 1440020 | Ink | New Horizons |
+| 1440020 | Pen Nibs | New Horizons |
 | 1440105 | Pyrit | New Horizons |
 | 1440200 | Rice | New Horizons |
 | 1440212 | Algae | New Horizons |
@@ -28,22 +28,29 @@
 | 1440216 | Sake | New Horizons |
 | 1440217 | Ducks | New Horizons |
 | 1440218 | Honey | New Horizons |
-| 1440219 | Duck Meals | New Horizons |
-| 1440221 | Aluminium | New Horizons |
+| 1440219 | Roast Duck | New Horizons |
 | 1440223 | Soy | New Horizons |
 | 1440224 | Hemp | New Horizons, Extra Goods Collection |
 | 1440225 | Jimbei Clothing | New Horizons |
 | 1440226 | Sturgeon | New Horizons |
-| 1440229 | Perfume | New Horizons |
-| 1440230 | Lotos Flowers | New Horizons |
-| 1440231 | Perfume Vials | New Horizons |
+| 1440229 | Koto Instruments | New Horizons |
+| 1440231 | Instrument Strings | New Horizons ||
+| 1440232 | Silk Vests | New Horizons |
+| 1440233 | Bamboo | New Horizons |
+| 1440234 | Clay Plastering | New Horizons |
+| 1440235 | Conical Hats | New Horizons |
+| 1440236 | Soy Sauce | New Horizons |
 | 1440300 | Noble Mushroom | New Horizons |
 | 1440303 | Yeast Cultures | New Horizons |
-| 1440500 | Medicine | New Horizons |
-| 1440501 | Valuables | New Horizons |
-| 1440502 | Alcohol | New Horizons |
-| 1440503 | Luxury Items | New Horizons |
-| 1440504 | Weapons | New Horizons |
+| 1440304 | Jade | New Horizons |
+| 1440305 | Novels | New Horizons |
+| 1440306 | Incense | New Horizons |
+| 1440307 | Durian Fruits | New Horizons |
+| 1440500 | Medicine Contraband | New Horizons |
+| 1440501 | Valuables Contraband | New Horizons |
+| 1440502 | Alcohol Contraband | New Horizons |
+| 1440503 | Luxury Items Contraband | New Horizons |
+| 1440504 | Weapons Contraband | New Horizons |
 | 1500010150 | Wooden Accessories | Extra Goods Collection |
 | 1500010102 | Cheese | Extra Goods Collection |
 | 1500010105 | Olives | Extra Goods Collection |
