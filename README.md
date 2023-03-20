@@ -1,6 +1,13 @@
-## Community GUID ranges (Deutsche Version unten)
+## Community GUID Ranges (Deutsche Version unten)
 
-### Personal range
+- [Personal GUID Range](#personal-guid-range)
+- [Public GUID Ranges](#public-guid-ranges)
+- [Mod Enums](#mod-enums)
+- [Street InternalIDs](#street-internalids)
+- [Shared Product GUIDs](#shared-product-guids)
+- [Deutsch Erklärung](#community-guid-ranges-deutsche-version)
+
+### Personal GUID Range
 
 If you do not publish mods, but want to have some safe GUIDs to use for personal usage, you can use the `Personal use` range.
 
@@ -8,7 +15,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | :-------------- | ------------: | ------------: |
 | *Personal use*  | 2.001.000.000 | 2.001.009.999 | 
 
-### Public ranges
+### Public GUID Ranges
 
 | User            |      Start ID |        End ID |
 | :-------------- | ------------: | ------------: |
@@ -69,6 +76,20 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Quentfr21/Moidu21     | 2.122.380.000 | 2.122.389.999 |
 | altmarkwilly     | 2.122.390.000 | 2.122.390.999 |
 | StreaMRoLLeR     | 2.130.000.000 | 2.130.000.999 |
+
+### Mod Enums
+
+See: [Mod Enums](./modenums.md)
+
+### Street InternalIDs
+
+See: [InternalIDs](./internalid.md)
+
+### Shared Product GUIDs
+
+See: [Shared Products](./products.md)
+
+### How To
 
 [Ubisoft](https://anno-union.com/en/new-anno-union-history-edition-update-anno-afternoon/) has given us an official *safe* range in which we can safely choose new GUIDs! 
 
