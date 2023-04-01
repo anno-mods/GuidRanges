@@ -42,6 +42,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Spice it Up 3.0 | 1.440.133.000 | 1.440.137.099 |
 | Serp's Mods     | 1.500.000.000 | 1.500.010.000 |
 | Jakob           | 1.500.010.001 | 1.500.012.999 |
+| Extra Goods     | 1.500.020.000 | 1.500.021.999 |
 | bergi           | 1.500.100.000 | 1.500.100.999 |
 | UhrMensch       | 1.500.110.000 | 1.500.112.999 |
 | HerrTurTur      | 1.500.113.000 | 1.500.113.999 |
