@@ -65,6 +65,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | *Personal use*  | 2.001.000.000 | 2.001.009.999 | 
 | Yunaicy         | 2.002.000.000 | 2.002.009.999 |
 | Sir Ludicrous   | 2.100.000.000 | 2.100.114.999 |
+| JimDiGriz77     | 2.077.000.000 | 2.077.999.999 |
 | Lion053         | 2.100.115.000 | 2.100.119.999 |
 | Sir Ludicrous   | 2.100.120.000 | 2.100.199.999 |
 | Hackner         | 2.103.690.000 | 2.103.699.999 |
