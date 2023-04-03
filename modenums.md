@@ -54,9 +54,9 @@ Mod20 |
 
 Enum | Author | Mod
 --- | --- | ---
-Mod1 |
-Mod2 |
-Mod3 |
+Mod1 | Taubenangriff | New Horizons |
+Mod2 | Taubenangriff | New Horizons |
+Mod3 | Taubenangriff | New Horizons |
 Mod4 |
 Mod5 |
 Mod6 |
@@ -79,7 +79,7 @@ Mod20 |
 
 Enum | Author | Mod
 --- | --- | ---
-Mod1 |
+Mod1 | 
 Mod2 |
 Mod3 |
 
