@@ -80,7 +80,7 @@ Mod20 |
 Enum | Author | Mod
 --- | --- | ---
 Mod1 | 
-Mod2 |
+Mod2 | Taubenangriff | New Horizons |
 Mod3 |
 
 ## SocketExclusiveGroup
