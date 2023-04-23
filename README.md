@@ -32,6 +32,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Spice it Up 2.8 |    99.334.100 |    99.334.199 |
 | Hackner         |   103.690.000 | 103.699.999 |
 | New Horizons    |   133.700.000 |   133.700.999 |
+| adjagu          | 1.337.471.142 | 1.337.471.999 |
 | Harlekin        | 1.337.472.000 | 1.337.472.999 |
 | Lethani         | 1.337.499.000 | 1.337.499.999 |
 | muggenstuermer  | 1.337.500.000 | 1.337.510.000 |
