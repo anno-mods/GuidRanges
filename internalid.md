@@ -71,6 +71,8 @@
 | 74 | Vanilla | - Crossing DirtCanal-Street |
 | 75 | Vanilla | - Crossing DirtCanal-FastStreet |
 | 76 | Vanilla | Courtyard Groundplate |
+| 80 | Lion053 | Enbesa Stone Street OW / NW |
+| 81 | Lion053 | Enbesa Desert Street OW / NW |
 | 94 | New Horizon | Quay System Asia Base |
 | 95 | New Horizon | Quay System Asia Base Invisible |
 | 96 | New Horizon | Quay System Asia Base Buildable |
