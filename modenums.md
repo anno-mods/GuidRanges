@@ -57,7 +57,7 @@ Enum | Author | Mod
 Mod1 | Taubenangriff | New Horizons |
 Mod2 | Taubenangriff | New Horizons |
 Mod3 | Taubenangriff | New Horizons |
-Mod4 |
+Mod4 | Taubenangriff | New Horizons |
 Mod5 |
 Mod6 |
 Mod7 |
