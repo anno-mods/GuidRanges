@@ -80,6 +80,8 @@
 | 101 | Jakob | OW Stone Concrete Industry |
 | 121 | New Horizon | Simple Street Asia |
 | 122 | New Horizon | Fast Street Asia |
+| 140 | Lion053 | Enclosed Greenery with Palms |
+| 141 | Lion053 | Enclosed Greenery with Palms Hacienda |
 | 190 | New Horizon | Fence Field 01 |
 | 192 (448) | City Ornaments | Ornamental Kanal Grün NW |
 | ⚠ 193 | New Horizon | Fence Field 04 |
