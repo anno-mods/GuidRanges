@@ -83,6 +83,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | StreaMRoLLeR     | 2.130.000.000 | 2.130.009.999 |
 | LEGION          | 2.130.010.000 | 2.130.019.999 |
 | Finchen         | 2.130.020.000 | 2.130.020.999 |
+| lsalazarm99     | 2.130.021.000 | 2.130.021.999 |
 ### Mod Enums
 
 See: [Mod Enums](./modenums.md)
