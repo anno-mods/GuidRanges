@@ -47,7 +47,8 @@
 | 45 | Vanilla | AF - Crossing Rails-Street |
 | 46 | Vanilla | AF - Crossing Rails-FastStreet |
 | 47 | Vanilla | AF - Crossing Rails-Pipe |
-| 48 .. 50 | | |
+| 48 .. 49 | | |
+| 50 | Kurila  | Fake Canal |
 | 51 | Vanilla | Canal |
 | 52 | Vanilla | AF - Dirt Street |
 | 53 | Vanilla | Crossing Canal-FastStreet |
