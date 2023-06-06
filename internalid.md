@@ -72,6 +72,8 @@
 | 74 | Vanilla | - Crossing DirtCanal-Street |
 | 75 | Vanilla | - Crossing DirtCanal-FastStreet |
 | 76 | Vanilla | Courtyard Groundplate |
+| 77 | Vanilla | Quay System Base full corners Africa |
+| 78 | Vanilla | Quay System Base Invisible full corners Africa |
 | 80 | Lion053 | Enbesa Stone Street OW / NW |
 | 81 | Lion053 | Enbesa Desert Street OW / NW |
 | 94 | New Horizon | Quay System Asia Base |
@@ -84,6 +86,8 @@
 | 140 | Lion053 | Enclosed Greenery with Palms |
 | 141 | Lion053 | Enclosed Greenery with Palms Hacienda |
 | 190 | New Horizon | Fence Field 01 |
+| 177 | JimDiGriz77 | Quay System Colony03 Base full corners |
+| 178 | JimDiGriz77 | Quay System Colony03 Base Invisible full corners |
 | 192 (448) | City Ornaments | Ornamental Kanal Grün NW |
 | ⚠ 193 | New Horizon | Fence Field 04 |
 | 193 (449) | City Ornaments | Kreuzung Kanal-Rail NW |
