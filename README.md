@@ -1,11 +1,21 @@
 ## Community GUID Ranges (Deutsche Version unten)
 
-- [Personal GUID Range](#personal-guid-range)
+- [Mod Enums and Street InternalIDs](#mod-enums-and-street-internalids)
+- [Shared Product GUIDs](#shared-products-and-mods)
 - [Public GUID Ranges](#public-guid-ranges)
-- [Mod Enums](#mod-enums)
-- [Street InternalIDs](#street-internalids)
-- [Shared Product GUIDs](#shared-product-guids)
+- [Personal GUID Range](#personal-guid-range)
 - [Deutsch Erklärung](#community-guid-ranges-deutsche-version)
+
+### Mod Enums and Street InternalIDs
+
+- [Mod Enums](./modenums.md)
+- [InternalIDs](./internalid.md)
+
+### Shared Products and Mods
+
+Common resources and links to products and other shared mods: [shared-resources](https://github.com/anno-mods/shared-resources#readme)
+
+Old, not maintained list of shared product GUIDS: [Shared Products](./products.md)
 
 ### Personal GUID Range
 
@@ -84,17 +94,6 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | LEGION          | 2.130.010.000 | 2.130.019.999 |
 | Finchen         | 2.130.020.000 | 2.130.020.999 |
 | lsalazarm99     | 2.130.021.000 | 2.130.021.999 |
-### Mod Enums
-
-See: [Mod Enums](./modenums.md)
-
-### Street InternalIDs
-
-See: [InternalIDs](./internalid.md)
-
-### Shared Product GUIDs
-
-See: [Shared Products](./products.md)
 
 ### How To
 
