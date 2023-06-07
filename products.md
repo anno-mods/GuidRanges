@@ -1,4 +1,4 @@
-| Product | GUID | Mod |
+| GUID | Product | Mod |
 | - | - | - |
 | 1440003 | Plastic | New Horizons |
 | 1440004 | Radios | New Horizons |
