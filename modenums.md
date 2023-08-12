@@ -135,6 +135,7 @@ Mod20 |
 
 ## UniqueType
 
+Consider using "BuildPermit" instead, if you want to limit it globally or per region to a max amount of X.
 Enum | Author | Mod
 --- | --- | ---
 Mod1 | Lion053 | Subways 
