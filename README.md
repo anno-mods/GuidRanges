@@ -74,6 +74,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Ghostbuster     | 2.000.000.000 | 2.000.099.999 |
 | XAN             | 2.000.150.000 | 2.000.259.999 |
 | Gilded Wraith   | 2.000.260.000 | 2.000.269.999 |
+| citybuilders         | 2.000.502.000 | 2.000.502.999 |
 | HadleyB         | 2.000.999.000 | 2.000.999.999 |
 | *Personal use*  | 2.001.000.000 | 2.001.009.999 | 
 | Yunaicy         | 2.002.000.000 | 2.002.009.999 |
