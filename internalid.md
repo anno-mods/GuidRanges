@@ -86,12 +86,17 @@
 | 123 | Artic Quay (Spice it Up) | Quay System Arctic |
 | 140 | Lion053 | Enclosed Greenery with Palms |
 | 141 | Lion053 | Enclosed Greenery with Palms Hacienda |
+| 174 | JimDiGriz77 | Street category II (single) |
+| 175 | JimDiGriz77 | Tram Rails (single) |
+| 176 | JimDiGriz77 | Tram Rails (double) |
 | 177 | JimDiGriz77 | Quay System Colony03 Base full corners |
 | 178 | JimDiGriz77 | Quay System Colony03 Base Invisible full corners |
 | 179 | JimDiGriz77 | Quay System full corners |
 | 180 | JimDiGriz77 | Quay System Colony01 full corners |
 | 181 | JimDiGriz77 | Quay System Africa full corners |
 | 182 | JimDiGriz77 | Quay System Colony03 full corners |
+| 183 | JimDiGriz77 | Quay Street Africa |
+| 184 | JimDiGriz77 | Quay Street Arctic |
 | 190 | New Horizon | Fence Field 01 |
 | 192 (448) | City Ornaments | Ornamental Kanal Grün NW |
 | ⚠ 193 | New Horizon | Fence Field 04 |
