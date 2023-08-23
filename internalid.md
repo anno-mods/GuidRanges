@@ -76,6 +76,8 @@
 | 78 | Vanilla | Quay System Base Invisible full corners Africa |
 | 80 | Lion053 | Enbesa Stone Street OW / NW |
 | 81 | Lion053 | Enbesa Desert Street OW / NW |
+| 82 | Vanilla | Nationalpark See 1 OW / NW |
+| 83 | Vanilla | Nationalpark See 2 OW / NW |
 | 94 | New Horizon | Quay System Asia Base |
 | 95 | New Horizon | Quay System Asia Base Invisible |
 | 96 | New Horizon | Quay System Asia Base Buildable |
