@@ -78,6 +78,10 @@
 | 81 | Lion053 | Enbesa Desert Street OW / NW |
 | 82 | Vanilla | Nationalpark See 1 OW / NW |
 | 83 | Vanilla | Nationalpark See 2 OW / NW |
+| 88 | Lrds42 | Land Quay Street OW |
+| 89 | Lrds42 | Land Quay Street NW |
+| 90 | Kurila | Land Quay Street Arctic |
+| 91 | Kurila | Land Quay Street Enbesa |
 | 94 | New Horizon | Quay System Asia Base |
 | 95 | New Horizon | Quay System Asia Base Invisible |
 | 96 | New Horizon | Quay System Asia Base Buildable |
