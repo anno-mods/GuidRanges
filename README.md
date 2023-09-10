@@ -46,6 +46,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Harlekin        | 1.337.472.000 | 1.337.472.999 |
 | Lethani         | 1.337.499.000 | 1.337.499.999 |
 | muggenstuermer  | 1.337.500.000 | 1.337.510.000 |
+| zeltice         | 1.337.520.000 | 1.337.529.999 |
 | schwubbe        | 1.350.000.000 | 1.399.999.999 |
 | Pawel Malecki   | 1.400.000.000 | 1.400.099.999 |
 | Lordys          | 1.404.410.000 | 1.404.449.999 |
