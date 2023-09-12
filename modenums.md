@@ -121,7 +121,7 @@ Mod6 |
 Mod7 |
 Mod8 |
 Mod9 |
-Mod10 |
+Mod10 | Serp | Limited Defense |
 Mod11 |
 Mod12 |
 Mod13 |
