@@ -84,7 +84,6 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Lion053         | 2.100.115.000 | 2.100.119.999 |
 | Sir Ludicrous   | 2.100.120.000 | 2.100.199.999 |
 | Hackner         | 2.103.690.000 | 2.103.699.999 |
-| Lirvan          | 2.141.592.000 | 2.141.593.999 |
 | Phloup          | 2.122.330.000 | 2.122.339.999 |
 | Maliatchi       | 2.122.340.000 | 2.122.340.999 |
 | GaiusG          | 2.122.341.000 | 2.122.341.999 |
@@ -97,6 +96,8 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Finchen         | 2.130.020.000 | 2.130.020.999 |
 | lsalazarm99     | 2.130.021.000 | 2.130.021.999 |
 | Pinkcamouflage  | 2.130.022.000 | 2.130.022.999 |
+| Spectra Arcrex  | 2.140.000.000 | 2.140.000.999 |
+| Lirvan          | 2.141.592.000 | 2.141.593.999 |
 
 ### How To
 
