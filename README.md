@@ -40,7 +40,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | New Horizons    |    13.370.000 |    15.522.999 |
 | Barthi82        |    19.820.000 |    19.829.999 |
 | Spice it Up 2.8 |    99.334.100 |    99.334.199 |
-| Hackner         |   103.690.000 | 103.699.999 |
+| Hackner         |   103.690.000 |   103.699.999 |
 | New Horizons    |   133.700.000 |   133.700.999 |
 | adjagu          | 1.337.471.142 | 1.337.471.999 |
 | Harlekin        | 1.337.472.000 | 1.337.472.999 |
@@ -75,7 +75,8 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Ghostbuster     | 2.000.000.000 | 2.000.099.999 |
 | XAN             | 2.000.150.000 | 2.000.259.999 |
 | Gilded Wraith   | 2.000.260.000 | 2.000.269.999 |
-| citybuilders         | 2.000.502.000 | 2.000.502.999 |
+| citybuilders    | 2.000.502.000 | 2.000.502.999 |
+| 0skater0        | 2.000.510.000 | 2.000.519.999 |
 | HadleyB         | 2.000.999.000 | 2.000.999.999 |
 | *Personal use*  | 2.001.000.000 | 2.001.009.999 | 
 | Yunaicy         | 2.002.000.000 | 2.002.009.999 |
@@ -88,10 +89,10 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Maliatchi       | 2.122.340.000 | 2.122.340.999 |
 | GaiusG          | 2.122.341.000 | 2.122.341.999 |
 | Dreamfisher     | 2.122.350.000 | 2.122.350.999 |
-| Ricky/MrKoekie     | 2.122.360.000 | 2.122.369.999 |
-| Quentfr21/Moidu21     | 2.122.380.000 | 2.122.389.999 |
-| altmarkwilly     | 2.122.390.000 | 2.122.390.999 |
-| StreaMRoLLeR     | 2.130.000.000 | 2.130.009.999 |
+| Ricky/MrKoekie  | 2.122.360.000 | 2.122.369.999 |
+| Quentfr21/Moidu21 | 2.122.380.000 | 2.122.389.999 |
+| altmarkwilly    | 2.122.390.000 | 2.122.390.999 |
+| StreaMRoLLeR    | 2.130.000.000 | 2.130.009.999 |
 | LEGION          | 2.130.010.000 | 2.130.019.999 |
 | Finchen         | 2.130.020.000 | 2.130.020.999 |
 | lsalazarm99     | 2.130.021.000 | 2.130.021.999 |
