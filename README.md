@@ -98,6 +98,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | lsalazarm99     | 2.130.021.000 | 2.130.021.999 |
 | Pinkcamouflage  | 2.130.022.000 | 2.130.022.999 |
 | Spectra Arcrex  | 2.140.000.000 | 2.140.000.999 |
+| Wolfman         | 2.141.010.000 | 2.141.011.999 |
 | Lirvan          | 2.141.592.000 | 2.141.593.999 |
 
 ### How To
