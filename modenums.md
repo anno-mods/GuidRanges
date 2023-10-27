@@ -139,7 +139,7 @@ Consider using "BuildPermit" instead, if you want to limit it globally or per re
 Enum | Author | Mod
 --- | --- | ---
 Mod1 | Lion053 | Subways 
-Mod2 |
+Mod2 | Qurila | Job Advertisements
 Mod3 |
 Mod4 |
 Mod5 |
