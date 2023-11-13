@@ -29,10 +29,10 @@ Mod10 |
 
 Enum | Author | Mod
 --- | --- | ---
-Mod1 |
-Mod2 |
-Mod3 |
-Mod4 |
+Mod1 | Qurila | Combinated Allocations |
+Mod2 | Qurila | Combinated Allocations |
+Mod3 | Qurila | Combinated Allocations |
+Mod4 | Qurila | Combinated Allocations |
 Mod5 |
 Mod6 |
 Mod7 |
@@ -139,7 +139,7 @@ Consider using "BuildPermit" instead, if you want to limit it globally or per re
 Enum | Author | Mod
 --- | --- | ---
 Mod1 | Lion053 | Subways 
-Mod2 |
+Mod2 | Qurila | Job Advertisements
 Mod3 |
 Mod4 |
 Mod5 |
