@@ -32,7 +32,7 @@ Enum | Author | Mod
 Mod1 | Qurila | Combinated Allocations |
 Mod2 | Qurila | Combinated Allocations |
 Mod3 | Qurila | Combinated Allocations |
-Mod4 |
+Mod4 | Qurila | Combinated Allocations |
 Mod5 |
 Mod6 |
 Mod7 |
