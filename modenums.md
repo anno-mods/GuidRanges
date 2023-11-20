@@ -33,7 +33,7 @@ Mod1 | Qurila | Combinated Allocations |
 Mod2 | Qurila | Combinated Allocations |
 Mod3 | Qurila | Combinated Allocations |
 Mod4 | Qurila | Combinated Allocations |
-Mod5 |
+Mod5 | Lion053 | Enbesa Tourism |
 Mod6 |
 Mod7 |
 Mod8 |
@@ -138,7 +138,7 @@ Mod20 |
 Consider using "BuildPermit" instead, if you want to limit it globally or per region to a max amount of X.
 Enum | Author | Mod
 --- | --- | ---
-Mod1 | Lion053 | Subways 
+Mod1 | Lion053 | Subway Network 
 Mod2 | Qurila | Job Advertisements
 Mod3 |
 Mod4 |
