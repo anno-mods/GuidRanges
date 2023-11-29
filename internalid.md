@@ -92,6 +92,10 @@
 | 123 | Artic Quay (Spice it Up) | Quay System Arctic |
 | 140 | Lion053 | Enclosed Greenery with Palms |
 | 141 | Lion053 | Enclosed Greenery with Palms Hacienda |
+| 160 | HerrTurTur | Swamp System |
+| 161 | HerrTurTur | Swamp System Crossing-Street |
+| 162 | HerrTurTur | Swamp System Crossing-FastStreet |
+| 163 | HerrTurTur | Mangrove System |
 | 174 | JimDiGriz77 | Street category II (single) |
 | 175 | JimDiGriz77 | Tram Rails (single) |
 | 176 | JimDiGriz77 | Tram Rails (double) |
