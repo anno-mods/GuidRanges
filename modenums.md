@@ -48,7 +48,7 @@ Mod16 |
 Mod17 |
 Mod18 |
 Mod19 |
-Mod20 |
+Mod20 | Qurila | Usable for everyone. Use thies enum to remove items from the item display. |
 
 ## ParticipantID
 
