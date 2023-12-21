@@ -1,6 +1,5 @@
 | GUID | Product | Mod |
 | - | - | - |
-| 1440003 | Plastic | New Horizons |
 | 1440004 | Radios | New Horizons |
 | 1440005 | (Obsolete) Milk | New Horizons, Extra Goods Collection |
 | 1440007 | Pens | New Horizons |
@@ -40,6 +39,7 @@
 | 1440234 | Clay Plastering | New Horizons |
 | 1440235 | Conical Hats | New Horizons |
 | 1440236 | Soy Sauce | New Horizons |
+| 1440237 | Stone Blocks | New Horizons |
 | 1440300 | Noble Mushroom | New Horizons |
 | 1440303 | Yeast Cultures | New Horizons |
 | 1440304 | Jade | New Horizons |
