@@ -43,7 +43,7 @@ Mod11 |
 Mod12 |
 Mod13 |
 Mod14 |
-Mod15 |
+Mod15 | Tisogno | Maya Treasures |
 Mod16 |
 Mod17 |
 Mod18 |
@@ -152,7 +152,7 @@ Mod11 |
 Mod12 |
 Mod13 |
 Mod14 |
-Mod15 |
+Mod15 | Tisogno | Maya Treasure
 Mod16 |
 Mod17 |
 Mod18 |
