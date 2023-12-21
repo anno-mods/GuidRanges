@@ -100,6 +100,7 @@
 | 140 | Lion053 | Enclosed Greenery with Palms |
 | 141 | Lion053 | Enclosed Greenery with Palms Hacienda |
 | 144 .. 156 | muggenstuermer | Streets |
+| 155 .. 156 (!) | Tisogno | Maya Treasure |
 | 157 (?) | Lion053 | Enclosed Greenery with Tree |
 | 158 (?) | Lion053 | Enclosed Greenery with Tree |
 | 159| | |  
