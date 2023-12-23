@@ -27,6 +27,17 @@ Mod10 |
 
 ## ItemAllocation
 
+When using new ItemAllocations, make sure you use **compatible** code like this to change existing items/filters:
+```xml
+<ModOp Type="replace" Path="@1010516/ItemContainer/SocketAllocation[not(contains(.,'Mod1'))]"
+  Content="/Values/ItemContainer/SocketAllocation/text()">
+  <SocketAllocation><ModOpContent />;Mod1</SocketAllocation>
+</ModOp>
+<ModOp Type="replace" GUID="501516" Path="/Values/ItemFilter/ItemCategories/Item[CategoryAsset='18021']"
+  Content="/Values/ItemFilter/ItemCategories/Item[CategoryAsset='18021']/text()">
+  <ItemTypes><ModOpContent />;Mod1</ItemTypes>
+</ModOp>
+```
 Enum | Author | Mod
 --- | --- | ---
 Mod1 | Qurila | Combinated Allocations |
