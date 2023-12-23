@@ -29,12 +29,12 @@ Mod10 |
 
 When using new ItemAllocations, make sure you use **compatible** code like this to change existing items/filters:
 ```xml
-<ModOp Type="replace" Path="@1010516/ItemContainer/SocketAllocation[not(contains(.,'Mod1'))]"
-  Content="/Values/ItemContainer/SocketAllocation/text()">
+<ModOp Type="replace" Path="@601470/ItemContainer/SocketAllocation[not(contains(.,'Mod1'))]"
+  Content="@601470/ItemContainer/SocketAllocation/text()">
   <SocketAllocation><ModOpContent />;Mod1</SocketAllocation>
 </ModOp>
-<ModOp Type="replace" GUID="501516" Path="/Values/ItemFilter/ItemCategories/Item[CategoryAsset='18021']"
-  Content="/Values/ItemFilter/ItemCategories/Item[CategoryAsset='18021']/text()">
+<ModOp Type="replace" GUID="501516" Path="/Values/ItemFilter/ItemCategories/Item[CategoryAsset='18021']/ItemTypes"
+  Content="@501516/ItemFilter/ItemCategories/Item[CategoryAsset='18021']/ItemTypes/text()">
   <ItemTypes><ModOpContent />;Mod1</ItemTypes>
 </ModOp>
 ```
