@@ -2,13 +2,14 @@
 
 Please always consider alternatives before taking one of the precious enum slots.
 
-- [FreeAreaType](#freeareatype)
-- [ItemAllocation](#itemallocation)
-- [ParticipantID](#participantid)
-- [Region](#region)
-- [SocketExclusiveGroup](#socketexclusivegroup)
-- [SocketScopeRadiusOverlapCategory](#socketscoperadiusoverlapcategory)
-- [UniqueType](#uniquetype)
+- [Mod Enums](#mod-enums)
+  - [FreeAreaType](#freeareatype)
+  - [ItemAllocation](#itemallocation)
+  - [ParticipantID](#participantid)
+  - [Region](#region)
+  - [SocketExclusiveGroup](#socketexclusivegroup)
+  - [SocketScopeRadiusOverlapCategory](#socketscoperadiusoverlapcategory)
+  - [UniqueType](#uniquetype)
 
 ## FreeAreaType
 
@@ -28,23 +29,19 @@ Mod10 |
 ## ItemAllocation
 
 When using new ItemAllocations, make sure you use **compatible** code like this to change existing items/filters:
+
 ```xml
-<ModOp Type="replace" Path="@601470/ItemContainer/SocketAllocation[not(contains(.,'Mod1'))]"
-  Content="@601470/ItemContainer/SocketAllocation/text()">
-  <SocketAllocation><ModOpContent />;Mod1</SocketAllocation>
-</ModOp>
-<ModOp Type="replace" GUID="501516" Path="/Values/ItemFilter/ItemCategories/Item[CategoryAsset='18021']/ItemTypes"
-  Content="@501516/ItemFilter/ItemCategories/Item[CategoryAsset='18021']/ItemTypes/text()">
-  <ItemTypes><ModOpContent />;Mod1</ItemTypes>
-</ModOp>
+<ModOp Type="add" GUID="1010516" Path="/Values/ItemContainer/SocketAllocation">;Mod1;Mod2;Mod3</ModOp>
+<ModOp Type="add" GUID="502015" Path="/Values/ItemFilter/ItemCategories/Item[CategoryAsset='18021']/ItemTypes">;Mod1;Mod2;Mod3</ModOp>
 ```
+
 Enum | Author | Mod
 --- | --- | ---
 Mod1 | Qurila | Combinated Allocations |
 Mod2 | Qurila | Combinated Allocations |
 Mod3 | Qurila | Combinated Allocations |
 Mod4 | Qurila | Combinated Allocations |
-Mod5 | Qurila | Combinated Allocations | 
+Mod5 | Qurila | Combinated Allocations |
 Mod6 |
 Mod7 |
 Mod8 |
@@ -90,7 +87,7 @@ Mod20 |
 
 Enum | Author | Mod
 --- | --- | ---
-Mod1 | 
+Mod1 |
 Mod2 | Taubenangriff | New Horizons |
 Mod3 |
 
@@ -149,7 +146,7 @@ Mod20 |
 Consider using "BuildPermit" instead, if you want to limit it globally or per region to a max amount of X.
 Enum | Author | Mod
 --- | --- | ---
-Mod1 | Lion053 | Subway Network 
+Mod1 | Lion053 | Subway Network
 Mod2 | Qurila | Job Advertisements
 Mod3 |
 Mod4 |
