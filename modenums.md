@@ -31,17 +31,17 @@ Mod10 |
 When using new ItemAllocations, make sure you use **compatible** code like this to change existing items/filters:
 
 ```xml
-<ModOp Type="add" GUID="1010516" Path="/Values/ItemContainer/SocketAllocation">;Mod1;Mod2;Mod3</ModOp>
-<ModOp Type="add" GUID="502015" Path="/Values/ItemFilter/ItemCategories/Item[CategoryAsset='18021']/ItemTypes">;Mod1;Mod2;Mod3</ModOp>
+<ModOp Type="add" GUID="1010516" Path="/Values/ItemContainer/SocketAllocation">;Mod1</ModOp>
+<ModOp Type="add" GUID="502015" Path="/Values/ItemFilter/ItemCategories/Item[CategoryAsset='18021']/ItemTypes">;Mod1</ModOp>
 ```
 
 Enum | Author | Mod
 --- | --- | ---
 Mod1 | Qurila | Combinated Allocations |
-Mod2 | Qurila | Combinated Allocations |
-Mod3 | Qurila | Combinated Allocations |
-Mod4 | Qurila | Combinated Allocations |
-Mod5 | Qurila | Combinated Allocations |
+Mod2 |
+Mod3 |
+Mod4 |
+Mod5 |
 Mod6 |
 Mod7 |
 Mod8 |
@@ -56,7 +56,7 @@ Mod16 |
 Mod17 |
 Mod18 |
 Mod19 |
-Mod20 | Qurila | Usable for everyone. Use thies enum to remove items from the item display. |
+Mod20 |
 
 ## ParticipantID
 
