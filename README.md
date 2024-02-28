@@ -109,7 +109,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Lirvan          | 2.141.592.000 | 2.141.593.999 |
 | Evangeline      | 2.142.000.000 | 2.142.000.500 |
 | SacklGlopfa     | 2.143.000.000 | 2.143.005.000 |
-
+| fran-t96        | 2.143.005.000 | 2.143.007.500 |
 
 ### How To
 
