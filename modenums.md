@@ -130,7 +130,7 @@ Mod7 |
 Mod8 |
 Mod9 |
 Mod10 | Serp | Limited Defense |
-Mod11 |
+Mod11 | Hier0nimus | Navy Recruitment Office - Military Attention Mod |
 Mod12 |
 Mod13 |
 Mod14 |
