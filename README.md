@@ -77,6 +77,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Lady Meridonia  | 1.777.650.000 | 1.777.659.999 |
 | DonnyBresko     | 1.800.000.100 | 1.800.002.099 |
 | JohnSpoc        | 1.888.888.000 | 1.888.988.000 |
+| Grusin99        | 1.900.000.000 | 1.955.999.999 |
 | Tisogno         | 1.957.000.000 | 1.957.999.999 |
 | Incipium        | 1.998.000.000 | 1.998.999.999 |
 | Taludas         | 1.999.000.000 | 1.999.999.999 |
