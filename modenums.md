@@ -146,6 +146,7 @@ Mod20 |
 Consider using "BuildPermit" instead, if you want to limit it globally or per region to a max amount of X.  
 If all Enums are already in use, you can also use this code to limit to "once per island": [OncePerIsland](https://github.com/Serpens66/Anno-1800-SharedMods-for-Modders-/blob/main/CodeSnippets.md#limit-a-building-to-once-per-island-without-uniquetype-property).  
 Since there are alternatives for worldwide,region and island, the only needed usecase of these Enums is "once per Session".
+(UniqueType is also used for "ModuleParentType" to tell the game that modules built from within the buildmenu belonging to this UniqueType. But there are reports that Mod-Enums are not working here for whatever reason and you don't need it for modules directly built from the UI of the main building)
 Enum | Author | Mod
 --- | --- | ---
 Mod1 | Lion053 | Subway Network
