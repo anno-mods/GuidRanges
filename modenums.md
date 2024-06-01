@@ -131,8 +131,8 @@ Mod8 |
 Mod9 |
 Mod10 | Serp | Limited Defense |
 Mod11 | Hier0nimus | Navy Recruitment Office - Military Attention Mod |
-Mod12 |
-Mod13 |
+Mod12 | Hier0nimus | Sanitation Facility - Military Attention Mod |
+Mod13 | Hier0nimus | Clean Water Pump - Military Attention Mod |
 Mod14 |
 Mod15 | Tisogno | Garbage Collection |
 Mod16 |
