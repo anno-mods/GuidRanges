@@ -9,7 +9,8 @@ Please always consider alternatives before taking one of the precious enum slots
   - [Region](#region)
   - [SocketExclusiveGroup](#socketexclusivegroup)
   - [SocketScopeRadiusOverlapCategory](#socketscoperadiusoverlapcategory)
-  - [UniqueType](#uniquetype)
+  - [UniqueType](#uniquetype)  
+  - [FestivalType](#festivaltype)
 
 ## FreeAreaType
 
@@ -169,3 +170,38 @@ Mod17 |
 Mod18 |
 Mod19 |
 Mod20 |
+
+## FestivalType
+
+We got no ModX Enums for Festivals, but Taubenangriff figured out the vanilla Stadium Festivals also work fine with only 3 Enums (Stadium1,Stadium6 and Stadium11), instead of 15, so we can make use of the rest for modding. Choose one of them (if you choose an occopied, the mod will not be compatible with yours) and free them up from vanilla with such an ModOp:
+
+Copy paste these 3 modops into your mod, to free up Stadium Enums.
+```xml
+  <ModOp  Type="replace" GUID="6499,6500,6501,6502" Path="/Values/Reward/RewardAssets/Item[2]/Reward">
+    <Reward>6931</Reward>
+  </ModOp>
+  <ModOp  Type="replace" GUID="6948,6949,6950,6951" Path="/Values/Reward/RewardAssets/Item[2]/Reward">
+    <Reward>6936</Reward>
+  </ModOp>
+  <ModOp  Type="replace" GUID="6503,6504,6505,6506" Path="/Values/Reward/RewardAssets/Item[2]/Reward">
+    <Reward>6941</Reward>
+  </ModOp>
+```
+Example how to continue after this, see eg. this mod: https://github.com/Pnski/Anno1800MoreFestivalTypes/tree/main
+(replacing the content of GUID 141893 for your chosen Enum and adding tooltip support (infotips))
+
+Enum | Author | Mod
+--- | --- | ---
+Stadium2 | Taubenangriff | New Horizons |
+Stadium3 | Taubenangriff | New Horizons |
+Stadium4 | Taubenangriff | New Horizons |
+Stadium5 | Taubenangriff | New Horizons |
+Stadium7 | nyk/pnski | MoreFestivalTypes_Nyk |
+Stadium8 | nyk/pnski | MoreFestivalTypes_Nyk |
+Stadium9 | nyk/pnski | MoreFestivalTypes_Nyk |
+Stadium10 | nyk/pnski | MoreFestivalTypes_Nyk |
+Stadium12 | 
+Stadium13 | 
+Stadium14 | 
+Stadium15 | 
+
