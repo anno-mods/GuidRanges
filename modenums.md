@@ -173,7 +173,7 @@ Mod20 |
 
 ## FestivalType
 
-We got no ModX Enums for Festivals, but Taubenangriff figured out the vanilla Stadium Festivals also work fine with only 3 Enums (Stadium1,Stadium6 and Stadium11), instead of 15, so we can make use of the rest for modding. Choose one of them (if you choose an occopied, the mod will not be compatible with yours) and free them up from vanilla with such an ModOp:
+We got no ModX Enums for Festivals, but Taubenangriff figured out the vanilla Stadium Festivals also work fine with only 3 Enums (Stadium1,Stadium6 and Stadium11), instead of 15, so we can make use of the rest for modding.
 
 Copy paste these 3 modops into your mod, to free up Stadium Enums.
 ```xml
