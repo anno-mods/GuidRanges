@@ -189,6 +189,7 @@ Copy paste these 3 modops into your mod, to free up Stadium Enums.
 ```
 Example how to continue after this, see eg. this mod: https://github.com/Pnski/Anno1800MoreFestivalTypes/tree/main
 (replacing the content of GUID 141893 for your chosen Enum and adding tooltip support (infotips))
+Or short tutorial here: https://a1800mod.github.io/#/en/tutorials/Festivals
 
 Enum | Author | Mod
 --- | --- | ---
