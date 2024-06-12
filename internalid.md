@@ -91,7 +91,11 @@ Before reserving one of the 256 limited InternalIDs, you may try different code,
 | 96 | New Horizon | Quay System Asia Base Buildable |
 | 100 | Jakob | NW Stone Pavement NW Greenery |
 | 101 | Jakob | OW Stone Concrete Industry |
-| 102 .. 120 | | | 
+| 102 .. 116 | | | 
+| 117 | New Horizon | Canal |
+| 118 | New Horizon | Canal |
+| 119 | New Horizon | Canal |
+| 120 | New Horizon | Canal |
 | 121 | New Horizon | Simple Street Asia |
 | 122 | New Horizon | Fast Street Asia |
 | 123 | Artic Quay (Spice it Up) | Quay System Arctic |
