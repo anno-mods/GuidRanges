@@ -29,6 +29,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 
 | User            |      Start ID |        End ID |
 | :-------------- | ------------: | ------------: |
+| Jakob           |          2268 |          2268 |
 | Fishboss        |       850.000 |       859.999 |
 | Spice it Up     |       900.000 |       930.000 |
 | Alucard         |       940.000 |       945.750 |
