@@ -159,7 +159,7 @@ Mod6 |
 Mod7 |
 Mod8 |
 Mod9 |
-Mod10 |
+Mod10 | Khobs | New World Palace
 Mod11 | Hier0nimus | Fort - Military Attention Mod |
 Mod12 | Hier0nimus | Military Headquarters - Military Attention Mod |
 Mod13 |
