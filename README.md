@@ -124,6 +124,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Khobs           | 2.143.505.001 | 2.143.505.999 |
 | Garthnait       | 2.145.000.001 | 2.145.009.999 |
 | Shounbourgh     | 2.145.010.000 | 2.145.010.999 |
+| Jakob           | 2.147.483.600 | 2.147.483.609 |
 
 ### How To
 
