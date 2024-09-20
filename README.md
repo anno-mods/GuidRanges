@@ -1,10 +1,12 @@
 ## Community GUID Ranges (Deutsche Version unten)
 
-- [Mod Enums and Street InternalIDs](#mod-enums-and-street-internalids)
-- [Shared Product GUIDs](#shared-products-and-mods)
-- [Public GUID Ranges](#public-guid-ranges)
-- [Personal GUID Range](#personal-guid-range)
-- [Deutsch Erklärung](#community-guid-ranges-deutsche-version)
+- [Community GUID Ranges (Deutsche Version unten)](#community-guid-ranges-deutsche-version-unten)
+  - [Mod Enums and Street InternalIDs](#mod-enums-and-street-internalids)
+  - [Shared Products and Mods](#shared-products-and-mods)
+  - [Personal GUID Range](#personal-guid-range)
+  - [Public GUID Ranges](#public-guid-ranges)
+  - [How To](#how-to)
+- [Community GUID ranges (Deutsche Version)](#community-guid-ranges-deutsche-version)
 
 ### Mod Enums and Street InternalIDs
 
@@ -66,7 +68,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | HerrTurTur      | 1.500.113.000 | 1.500.113.999 |
 | Gensho          | 1.500.200.000 | 1.500.200.999 |
 | RafaelExposito  | 1.500.201.000 | 1.500.201.999 |
-| Qurila          | 1.500.300.000 | 1.500.302.999 |
+| Qurila          | 1.500.300.000 | 1.500.303.999 |
 | Builder_HD      | 1.507.000.000 | 1.507.000.999 |
 | S1LV3R-p0tat0   | 1.510.000.000 | 1.510.003.000 |
 | Jaradis         | 1.554.900.000 | 1.554.999.999 |
