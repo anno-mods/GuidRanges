@@ -9,7 +9,7 @@ Please always consider alternatives before taking one of the precious enum slots
   - [Region](#region)
   - [SocketExclusiveGroup](#socketexclusivegroup)
   - [SocketScopeRadiusOverlapCategory](#socketscoperadiusoverlapcategory)
-  - [UniqueType](#uniquetype)  
+  - [UniqueType](#uniquetype)
   - [FestivalType](#festivaltype)
 
 ## FreeAreaType
@@ -204,5 +204,5 @@ Stadium10 | nyk/pnski | MoreFestivalTypes_Nyk |
 Stadium12 | 
 Stadium13 | 
 Stadium14 | 
-Stadium15 | 
+Stadium15 | Tisogno | Mayan Treasures |
 
