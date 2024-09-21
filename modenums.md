@@ -204,5 +204,5 @@ Stadium10 | nyk/pnski | MoreFestivalTypes_Nyk |
 Stadium12 | 
 Stadium13 | 
 Stadium14 | 
-Stadium15 | 
+Stadium15 | Tisogno | Mayan Treasures
 
