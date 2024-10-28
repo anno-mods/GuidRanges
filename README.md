@@ -50,7 +50,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Lethani         | 1.337.499.000 | 1.337.499.999 |
 | muggenstuermer  | 1.337.500.000 | 1.337.510.000 |
 | zeltice         | 1.337.520.000 | 1.337.529.999 |
-| schwubbe        | 1.350.000.000 | 1.399.999.999 |
+| schwubbe        | 1.357.000.000 | 1.359.999.999 |
 | Pawel Malecki   | 1.400.000.000 | 1.400.099.999 |
 | Fruti           | 1.400.100.000 | 1.400.100.199 |
 | Lordys          | 1.404.410.000 | 1.404.449.999 |
