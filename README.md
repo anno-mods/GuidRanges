@@ -85,6 +85,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Hanthe2th       | 1.821.456.000 | 1.821.457.000 |
 | JohnSpoc        | 1.888.888.000 | 1.888.988.000 |
 | Grusin99        | 1.900.000.000 | 1.900.009.999 |
+| Fridhmyr        | 1.900.100.000 | 1.900.200.000 |
 | Tisogno         | 1.957.000.000 | 1.957.999.999 |
 | Incipium        | 1.998.000.000 | 1.998.999.999 |
 | Taludas         | 1.999.000.000 | 1.999.999.999 |
