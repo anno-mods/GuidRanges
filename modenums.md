@@ -67,7 +67,7 @@ Mod1 | Taubenangriff | New Horizons |
 Mod2 | Taubenangriff | New Horizons |
 Mod3 | Taubenangriff | New Horizons |
 Mod4 | Taubenangriff | New Horizons |
-Mod5 |
+Mod5 | Taludas | Noblesse Oblige |
 Mod6 |
 Mod7 |
 Mod8 |
@@ -152,7 +152,7 @@ Enum | Author | Mod
 --- | --- | ---
 Mod1 | Lion053 | Subway Network
 Mod2 | Qurila | Job Advertisements
-Mod3 |
+Mod3 | Drakkam/Taubenangriff/Taludas | Shared Foreign Trading Company
 Mod4 |
 Mod5 |
 Mod6 |
