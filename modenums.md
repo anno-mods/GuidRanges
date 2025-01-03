@@ -201,7 +201,7 @@ Stadium7 | nyk/pnski | MoreFestivalTypes_Nyk |
 Stadium8 | nyk/pnski | MoreFestivalTypes_Nyk |
 Stadium9 | nyk/pnski | MoreFestivalTypes_Nyk |
 Stadium10 | nyk/pnski | MoreFestivalTypes_Nyk |
-Stadium12 | 
+Stadium12 | Taludas | Noblesse Oblige |
 Stadium13 | 
 Stadium14 | 
 Stadium15 | Tisogno | Mayan Treasures |
