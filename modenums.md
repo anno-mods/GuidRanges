@@ -38,7 +38,7 @@ Hunter | Moderate | vanilla | Hunting Cabin
 Hunter | New World | Taludas | Cinnamon Orchard (Campher and Cinnamon use different trees)
 Hunter | Arctic | vanilla | Caribou Hunter
 Hunter | Arctic | vanilla | Prime Hunting Cabin
-Hunter | Enbesa |  | 
+Hunter | Enbesa | Kurila | Cinnamon Orchard
 Hunter2 | Moderate | Taludas | Apple Orchard (Noblesse Oblige)
 Hunter2 | New World |  | 
 Hunter2 | Arctic | vanilla | Bear Hunter
@@ -46,15 +46,16 @@ Hunter2 | Enbesa |  |
 Citrus | Moderate | vanilla | Jam Orchard
 Citrus | New World | vanilla | Citrus Orchard
 Citrus | Arctic |  |
-Citrus | Enbesa |  |
+Citrus | Enbesa | Kurila | Citrus Orchard
 Coconut | Moderate | vanilla | Resin Orchard
 Coconut | New World | vanilla | Coconut Oil Orchard, Industrial Oil Press
 Coconut | Arctic |  |
-Coconut | Enbesa |  |
+Coconut | Enbesa | Kurila | Coconut Orchard
 Camphor | Moderate | vanilla | Cherry Wood Orchard
 Camphor | New World | vanilla | Cinnamon Orchard, Camphor Wax Orchard
 Camphor | Arctic |  |
-Camphor | Enbesa |  |
+Camphor | Enbesa | Kurila | Camphor Wax Orchard
+FirTrees | Enbesa | Kurila | Palm Oil Orchard
 
 
 
