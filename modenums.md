@@ -27,6 +27,38 @@ Mod8 |
 Mod9 |
 Mod10 |
 
+There are certain unused vanilla FreeAreaType enums available in certain sessions. Test empty Citrus, Coconut and Camphor Treeconfigs before you use them in Arctic/Enbesa!
+
+Enum | Region | Author | Building (Mod)
+--- | --- | --- | ---
+None | Moderate | vanilla | Orchard Blank
+None | New World | vanilla | Orchard Blank
+Lumberjack | all | vanilla | Lumberjack Huts
+Hunter | Moderate | vanilla | Hunting Cabin
+Hunter | New World | Taludas | Cinnamon Orchard (Campher and Cinnamon use different trees)
+Hunter | Arctic | vanilla | Caribou Hunter
+Hunter | Arctic | vanilla | Prime Hunting Cabin
+Hunter | Enbesa |  | 
+Hunter2 | Moderate | Taludas | Apple Orchard (Noblesse Oblige)
+Hunter2 | New World |  | 
+Hunter2 | Arctic | vanilla | Bear Hunter
+Hunter2 | Enbesa |  | 
+Citrus | Moderate | vanilla | Jam Orchard
+Citrus | New World | vanilla | Citrus Orchard
+Citrus | Arctic |  |
+Citrus | Enbesa |  |
+Coconut | Moderate | vanilla | Resin Orchard
+Coconut | New World | vanilla | Coconut Oil Orchard, Industrial Oil Press
+Coconut | Arctic |  |
+Coconut | Enbesa |  |
+Camphor | Moderate | vanilla | Cherry Wood Orchard
+Camphor | New World | vanilla | Cinnamon Orchard, Camphor Wax Orchard
+Camphor | Arctic |  |
+Camphor | Enbesa |  |
+
+
+
+
 ## ItemAllocation
 
 When using new ItemAllocations, make sure you use **compatible** code like this to change existing items/filters:
