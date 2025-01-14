@@ -91,6 +91,34 @@ Mod18 |
 Mod19 |
 Mod20 |
 
+There are certain unused vanilla ItemAllocation enums available in certain sessions.
+
+Enum | Author | Session | Mod
+--- | --- | --- | ---
+None | vanilla | everywhere | default property
+RadiusBuilding | vanilla | everywhere | all Radius Buildings
+Guildhouse | vanilla | everywhere | Guildhouse
+Townhall | vanilla | everywhere | Townhall
+HarborOffice | vanilla | everywhere | Harbor Office
+Headquarter | Tisogno | everywhere | Headquarters
+Culture | vanilla | everywhere | Itemfilter
+Zoo | vanilla | everywhere | all Zoos
+BotanicGarden | vanilla | everywhere | all BotanicGardens
+Museum | vanilla | everywhere | all Museums
+Ship | vanilla | everywhere | all Ships
+SailShip | vanilla | everywhere | all SailShips
+SteamShip | vanilla | everywhere | all SteamShips
+Expedition | vanilla | everywhere | Itemfilter
+Warship | vanilla | everywhere | all Warships
+Tradeship | vanilla | everywhere | all Tradeships
+DivingVessel | vanilla | everywhere | Diving Vessel
+Pavilion | vanilla | everywhere | all Music Pavilions
+AirShip | vanilla | everywhere | all AirShips
+Lodge | vanilla | Arctic | Lodge
+BuildPermit | vanilla | everywhere | Itemfilter
+Dockland | vanilla | Moderate | Docklands
+AarhantShip | vanilla | New World | Hidden Quest: Aarhant Ship
+
 ## ParticipantID
 
 Enum | Author | Mod
@@ -174,6 +202,21 @@ Mod18 |
 Mod19 |
 Mod20 |
 
+There are certain unused vanilla SocketScopeRadiusOverlapCategory enums available in certain sessions.
+
+Enum | Author | Session | Mod
+--- | --- | --- | ---
+None | vanilla | everywhere | default property
+Guildhouse | vanilla | everywhere | Guildhouse
+Townhall | vanilla | Moderate, New World, Enbesa | Townhall
+HarborOffice | vanilla | everywhere | Harbor Office
+Postbox | vanilla | Moderate, New World, Arctic | Postboxes, Post Offices
+Postbox | Hackner | Enbesa | Hackner's Enbesa Mail Integration
+PassengerKiosk | Tisogno | Moderate | Garbage Collection 
+PassengerKiosk |  | New World | 
+PassengerKiosk |  | Arctic | 
+PassengerKiosk | Tisogno | Enbesa | Watering Enbesa
+
 ## UniqueType
 
 Consider using "BuildPermit" instead, if you want to limit it globally or per region to a max amount of X.  
@@ -202,6 +245,60 @@ Mod17 |
 Mod18 |
 Mod19 |
 Mod20 |
+
+There are certain unused vanilla UniqueType enums available in certain sessions.
+
+Enum | Author | Session | Mod
+--- | --- | --- | ---
+None | vanilla | everywhere | default property
+VisitorHarbor | vanilla | Moderate, New World | all Visitor Piers
+VisitorHarbor |  | Arctic | 
+VisitorHarbor | Lion053 | Enbesa | Visitor Pier
+Monument01 | vanilla | Moderate | World's Fair
+Monument01 | vanilla | New World | Stadium
+Monument01 | vanilla | Arctic | Airship Hangar
+Monument01 | Lion053 | Enbesa | Tourism Authority
+Headquarter | Tisogno | Global | Headquarters
+CoalHarbor | Tisogno | Moderate | Garbage Collection
+CoalHarbor | Tisogno | New World | Mayan Treasures
+CoalHarbor |  | Arctic | 
+CoalHarbor | Tisogno | Enbesa | Watering Enbesa
+OilHarbor | vanilla | Moderate, New World, Enbesa | Oil Habors
+OilHarbor | | Arctic | 
+WorkforceConnector | vanilla | Moderate, New World | Commuter Pier, Workforce Module Airship Platform
+WorkforceConnector | Taubenangriff | Enbesa | Enbesan Commuter Pier
+WorkforceConnector | Taubenangriff | Arctic | Arctic Commuter Pier
+Palace | vanilla | Global | Palace
+PalaceMinistry | vanilla | Moderate | all Ministries
+PalaceMinistry | Khobs | New World | New World Palace Ministry
+PalaceMinistry | Tisogno | Enbesa | Watering Enbesa
+PalaceMinistry | | Arctic | 
+ResearchCenter | vanilla | Global | Research Center
+Dockland | vanilla | Moderate | Docklands
+Dockland | Kurila | New World | New World Docklands
+Dockland | Kurila | Arctic | New World Docklands
+Dockland | Kurila | Enbesa | New World Docklands
+TourismMonument | vanilla | Moderate | Iron Tower
+TourismMonument | Taubenangriff, Dalexy, Fam, Jakob | New World | New World Tourism
+TourismMonument | | Arctic | 
+TourismMonument | | Enbesa |
+HighLifeMonument | vanilla | Moderate | Skyline Tower
+HighLifeMonument | Tisogno | New World | Mayan Treasures
+HighLifeMonument | | Arctic | 
+HighLifeMonument | | Enbesa |
+Hacienda | | Moderate | 
+Hacienda | vanilla | New World | Hacienda
+Hacienda | Tisogno | Arctic | Mayan Treasures
+Hacienda | Tisogno | Enbesa | Mayan Treasures
+AirshipPlatform | vanilla | Moderate, New World, Arctic | Airship Platforms
+AirshipPlatform | Hackner | Enbesa | Hackner's Enbesan Mail Integration
+AirshipPlatformItemTransferModule | vanilla | Moderate, New World, Arctic | Item Transfer Modules
+AirshipPlatformItemTransferModule | Hackner | Enbesa | Hackner's Enbesan Mail Integration
+AirshipPlatformWorkforceTransferModule | | Moderate | 
+AirshipPlatformWorkforceTransferModule | vanilla | New World | Workforce Transfer Module
+AirshipPlatformWorkforceTransferModule | | Arctic | 
+AirshipPlatformWorkforceTransferModule | | Enbesa |
+
 
 ## FestivalType
 
