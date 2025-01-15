@@ -25,7 +25,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 
 | User            |      Start ID |        End ID |
 | :-------------- | ------------: | ------------: |
-| *Personal use*  | 2.001.000.000 | 2.001.009.999 | 
+| *Personal use*  | 2.001.000.000 | 2.001.009.999 |
 
 ### Public GUID Ranges
 
@@ -79,7 +79,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | 2VetOp          | 1.632.000.000 | 1.633.000.000 |
 | Fam             | 1.660.010.000 | 1.660.019.999 |
 | sd808           | 1.738.000.000 | 1.738.099.999 |
-| Hier0nimus      | 1.742.000.000 | 1.742.999.999 |  
+| Hier0nimus      | 1.742.000.000 | 1.742.999.999 |
 | AnnoX7          | 1.743.000.000 | 1.744.999.999 |
 | Lady Meridonia  | 1.777.650.000 | 1.777.659.999 |
 | DonnyBresko     | 1.800.000.100 | 1.800.002.099 |
@@ -97,7 +97,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | citybuilders    | 2.000.502.000 | 2.000.502.999 |
 | 0skater0        | 2.000.510.000 | 2.000.519.999 |
 | HadleyB         | 2.000.999.000 | 2.000.999.999 |
-| *Personal use*  | 2.001.000.000 | 2.001.009.999 | 
+| *Personal use*  | 2.001.000.000 | 2.001.009.999 |
 | Yunaicy         | 2.002.000.000 | 2.002.009.999 |
 | Yodel Kindergarten          | 2.023.000.000 | 2.025.999.999 |
 | JimDiGriz77     | 2.077.000.000 | 2.077.999.999 |
@@ -105,7 +105,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Lion053         | 2.100.115.000 | 2.100.119.999 |
 | Sir Ludicrous   | 2.100.120.000 | 2.100.199.999 |
 | Hackner         | 2.103.690.000 | 2.103.699.999 |
-| Melliores       | 2.103.700.000 | 2.103.700.999 | 
+| Melliores       | 2.103.700.000 | 2.103.700.999 |
 | jookeers        | 2.103.701.000 | 2.103.701.999 |
 | Phloup          | 2.122.330.000 | 2.122.339.999 |
 | Maliatchi       | 2.122.340.000 | 2.122.340.999 |
@@ -129,15 +129,16 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Khobs           | 2.143.505.001 | 2.143.505.999 |
 | Garthnait       | 2.145.000.001 | 2.145.009.999 |
 | Shounbourgh     | 2.145.010.000 | 2.145.010.999 |
+| arcalys         | 2.145.100.000 | 2.145.100.999 |
 | Jakob           | 2.147.483.600 | 2.147.483.609 |
 
 ### How To
 
-[Ubisoft](https://anno-union.com/en/new-anno-union-history-edition-update-anno-afternoon/) has given us an official *safe* range in which we can safely choose new GUIDs! 
+[Ubisoft](https://anno-union.com/en/new-anno-union-history-edition-update-anno-afternoon/) has given us an official *safe* range in which we can safely choose new GUIDs!
 
 You can pick from the following *safe* GUID range: **1.337.471.142 - 2.147.483.647**
 
-> Older Mods like *Spice it Up* will still use *older and unsafe* GUID ranges, but they will not be changed due to savegame compability. 
+> Older Mods like *Spice it Up* will still use *older and unsafe* GUID ranges, but they will not be changed due to savegame compability.
 
 If you need help adding your range or want to talk, you can join us on [Discord](https://discord.gg/KEVaVby)
 
@@ -151,17 +152,17 @@ If you want to contribute your range, we suggest the following:
 
 ## Community GUID ranges (Deutsche Version)
 
-[Ubisoft](https://anno-union.com/en/new-anno-union-history-edition-update-anno-afternoon/) hat uns einen offiziellen *sicheren* Bereich gegeben, in dem Modder neue GUIDs anlegen können:  
+[Ubisoft](https://anno-union.com/en/new-anno-union-history-edition-update-anno-afternoon/) hat uns einen offiziellen *sicheren* Bereich gegeben, in dem Modder neue GUIDs anlegen können:
 
 Aus dem folgenden Bereich kann gewählt werden: **1.337.471.142 - 2.147.483.647**
 
-> Ältere Mods wie *Spice it Up* verwenden auch *alte und unsichere* GUID-Bereiche, da sie vor Bekanntgabe des offiziellen Bereiches erstellt worden sind. Diese werden aus Kompabilitätsgründen mit alten Spielständen nicht angepasst. 
+> Ältere Mods wie *Spice it Up* verwenden auch *alte und unsichere* GUID-Bereiche, da sie vor Bekanntgabe des offiziellen Bereiches erstellt worden sind. Diese werden aus Kompabilitätsgründen mit alten Spielständen nicht angepasst.
 
 Wenn du keine Mods veröffentlichst, aber für persönliche Veränderungen sichere GUIDs haben willst, kanns du Nummern aus dem `Personal use`-Bereich nehmen.
 
 Wenn du dabei Hilfe benötigst, deinen eigenen GUID-Bereich hinzuzufügen, oder einfach reden willst, trete uns doch auf [Discord](https://discord.gg/KEVaVby) bei.
 
-Deinen eigenen Bereich kannst du wie folgt hinzufügen: 
+Deinen eigenen Bereich kannst du wie folgt hinzufügen:
 
 1. Erstelle einen Fork des [Offiziellen Repository](https://github.com/anno-mods/GuidRanges/fork)
 2. Barbeite ```README.md``` in deinem Fork
