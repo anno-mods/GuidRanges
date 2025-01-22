@@ -192,9 +192,9 @@ Mod7 |
 Mod8 |
 Mod9 |
 Mod10 | Serp | Limited Defense |
-Mod11 | Hier0nimus | Navy Recruitment Office - Military Attention Mod |
-Mod12 | Hier0nimus | Sanitation Facility - Military Attention Mod |
-Mod13 | Hier0nimus | Clean Water Pump - Military Attention Mod |
+Mod11 | Hier0nimus | Navy Recruitment Office - Military Attention |
+Mod12 | Hier0nimus | Sanitation Facility - Military Attention |
+Mod13 | Hier0nimus | Clean Water Pump - Military Attention |
 Mod14 |
 Mod15 | Tisogno | Garbage Collection |
 Mod16 |
@@ -236,10 +236,10 @@ Mod7 |
 Mod8 |
 Mod9 |
 Mod10 | Khobs | New World Palace
-Mod11 | Hier0nimus | Fort - Military Attention Mod |
-Mod12 | Hier0nimus | Military Headquarters - Military Attention Mod |
-Mod13 |
-Mod14 |
+Mod11 | Hier0nimus | Fort - Military Attention / Crafting Centre - White & Cold |
+Mod12 | Hier0nimus | Military Headquarters - Military Attention / Coastal Centre - White & Cold |
+Mod13 | Hier0nimus | Forest Centre - White & Cold |
+Mod14 | Hier0nimus | Ice Harbour - White & Cold |
 Mod15 | Tisogno | Maya Treasure
 Mod16 |
 Mod17 |
