@@ -239,7 +239,7 @@ Mod10 | Khobs | New World Palace
 Mod11 | Hier0nimus | Fort - Military Attention / Crafting Centre - White & Cold |
 Mod12 | Hier0nimus | Military Headquarters - Military Attention / Coastal Centre - White & Cold |
 Mod13 | Hier0nimus | Forest Centre - White & Cold |
-Mod14 | Hier0nimus | Ice Harbour - White & Cold |
+Mod14 | Hier0nimus | Strategic Harbour - White & Cold |
 Mod15 | Tisogno | Maya Treasure
 Mod16 |
 Mod17 |
