@@ -55,9 +55,10 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Pawel Malecki   | 1.400.000.000 | 1.400.099.999 |
 | Fruti           | 1.400.100.000 | 1.400.100.199 |
 | Lordys          | 1.404.410.000 | 1.404.449.999 |
-| Phatchara    | 1.410.000.000 | 1.410.000.999 |
+| Phatchara       | 1.410.000.000 | 1.410.000.999 |
 | New Horizons    | 1.414.000.000 | 1.414.999.999 |
 | Chocolate Project | 1.415.000.000 | 1.415.009.999 |
+| Vaeloridas      | 1.416.000.000 | 1.419.999.999 |
 | Spice it Up 3.0 | 1.440.133.000 | 1.440.137.199 |
 | Taubenangriff   | 1.440.138.000 | 1.440.138.999 |
 | Serp's Mods     | 1.500.000.000 | 1.500.010.000 |
