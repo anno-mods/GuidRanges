@@ -72,12 +72,12 @@ When using new ItemAllocations, make sure you use **compatible** code like this 
 Enum | Author | Mod
 --- | --- | ---
 Mod1 | Qurila | Combinated Allocations |
-Mod2 |
+Mod2 | 
 Mod3 |
 Mod4 |
 Mod5 |
 Mod6 | Taubenangriff / Hier0nimus | Diplomacy Flags
-Mod7 |
+Mod7 | Taubenangriff | New Horizons
 Mod8 |
 Mod9 |
 Mod10 | S1LV3R-p0tat0 / Hier0nimus | Torpedo Launcher
