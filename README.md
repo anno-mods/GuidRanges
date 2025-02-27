@@ -49,6 +49,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | adjagu          | 1.337.471.142 | 1.337.471.999 |
 | Harlekin        | 1.337.472.000 | 1.337.472.999 |
 | stotzem         | 1.337.473.000 | 1.337.473.999 |
+| Fiasco          | 1.337.474.000 | 1.337.474.999 |
 | Lethani         | 1.337.499.000 | 1.337.499.999 |
 | muggenstuermer  | 1.337.500.000 | 1.337.519.999 |
 | zeltice         | 1.337.520.000 | 1.337.529.999 |
