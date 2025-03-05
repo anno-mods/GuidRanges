@@ -144,13 +144,14 @@ Before reserving one of the 256 limited InternalIDs, you may try different code,
 | 225 | | |
 | 226 | City Ornaments | HaciendaStreet01 |
 | 227 | City Ornaments | HaciendaStreet02 |
-| 228 | | |
-| 229 | New Horizons | Farm Field 03 | 
+| 228 | City Ornaments | ... |
+| 229 | City Ornaments | ... |
 | 230 | New Horizons | Farm Field 01 | 
 | 231 | New Horizons | Farm Field 02 |
 | 232 | SDesign | SDesign |
 | 233 | New Horizons | Quay Street Asia |
-| 234 .. 243| 
+| 234 | New Horizons | Farm Field 03 | 
+| 235 .. 243| 
 | 244 | Taludas | Hacienda Overhaul |
 | 245 | Taludas | Hacienda Overhaul |
 | 248 | SDesign | SDesign | 
