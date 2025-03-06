@@ -111,8 +111,7 @@ Before reserving one of the 256 limited InternalIDs, you may try different code,
 | 144 .. 156 | muggenstuermer | Streets |
 | 157 (?) | Lion053 | Enclosed Greenery with Tree |
 | 158 (?) | Lion053 | Enclosed Greenery with Tree |
-| 159| | |  
-| 160 .. 173 | muggenstuermer | City Ornaments |
+| 159 .. 173| | muggenstuermer| muggenstuermer |
 | 174 | JimDiGriz77/muggenstuermer | Street category II (single) |
 | 175 | JimDiGriz77/muggenstuermer | Tram Rails (single) |
 | 176 | JimDiGriz77/muggenstuermer | Tram Rails (double) |
@@ -130,22 +129,14 @@ Before reserving one of the 256 limited InternalIDs, you may try different code,
 | 188 .. 197 | |  |
 | 198 | SDesign | SDesign |
 | 199 .. 206 | | |
-| 207 (463) | City Ornaments | Kreuzung Kanal-Normal(Dirt) Street AW |
-| 208 (464) | City Ornaments | Kreuzung Kanal-Fast Street AW |
-| 209 (465) | City Ornaments | Kreuzung Kanal-Normal(Dirt) Street NW |
-| 210 (466) | City Ornaments | Kreuzung Kanal-Fast Street NW |
-| 211 (467) | City Ornaments | Kreuzung Kanal-Rail AW |
-| 212 (468) | City Ornaments | NobleStreet |
-| 213 (469) | City Ornaments | EdleStreet |
-| 214 (470) | City Ornaments | Schotterweg |
-| 215 (471) | City Ornaments | Ornamental Kanal Grün AW |
+| 207 .. 215 | muggenstuermer | muggenstuermer |
 | 216 .. 223 | | |
 | 224 | SDesign | SDesign |
 | 225 | | |
-| 226 | City Ornaments | HaciendaStreet01 |
-| 227 | City Ornaments | HaciendaStreet02 |
-| 228 | City Ornaments | ... |
-| 229 | City Ornaments | ... |
+| 226 | muggenstuermer | HaciendaStreet01 |
+| 227 | muggenstuermer | HaciendaStreet02 |
+| 228 | | |
+| 229 | muggenstuermer | muggenstuermer |
 | 230 | New Horizons | Farm Field 01 | 
 | 231 | New Horizons | Farm Field 02 |
 | 232 | SDesign | SDesign |
@@ -154,5 +145,8 @@ Before reserving one of the 256 limited InternalIDs, you may try different code,
 | 235 .. 243| 
 | 244 | Taludas | Hacienda Overhaul |
 | 245 | Taludas | Hacienda Overhaul |
-| 248 | SDesign | SDesign | 
-| 249..254 | muggenstuermer | City Ornaments | 
+| 247 | muggenstuermer | muggenstuermer |
+| 248 | SDesign | SDesign |
+| 249..250 | muggenstuermer | muggenstuermer |
+| 251..253 | | |
+| 254..256 | muggenstuermer | muggenstuermer |
