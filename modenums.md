@@ -79,7 +79,7 @@ Mod5 |
 Mod6 | Taubenangriff / Hier0nimus | Diplomacy Flags
 Mod7 | Taubenangriff | New Horizons
 Mod8 |
-Mod9 |
+Mod9 | Hier0nimus | Support Ships
 Mod10 | S1LV3R-p0tat0 / Hier0nimus | Torpedo Launcher
 Mod11 | S1LV3R-p0tat0 | Kamikaze Plane
 Mod12 |
