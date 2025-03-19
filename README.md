@@ -68,6 +68,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | NW Tier 4       | 1.500.020.000 | 1.500.023.999 |
 | Rodagasto       | 1.500.024.000 | 1.500.024.999 |
 | ManuKero        | 1.500.027.000 | 1.500.027.999 |
+| MrR0b3rt        | 1.500.030.000 | 1.500.039.999 |
 | bergi           | 1.500.100.000 | 1.500.100.999 |
 | UhrMensch       | 1.500.110.000 | 1.500.112.999 |
 | HerrTurTur      | 1.500.113.000 | 1.500.113.999 |
