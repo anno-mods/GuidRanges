@@ -91,6 +91,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Alex.S.         | 1.800.003.000 | 1.800.004.000 |
 | Hanthe2th       | 1.821.456.000 | 1.821.457.000 |
 | JohnSpoc        | 1.888.888.000 | 1.888.988.000 |
+| Satanoy         | 1.888.999.001 | 1.889.000.000 |
 | Grusin99        | 1.900.000.000 | 1.900.009.999 |
 | Fridhmyr        | 1.900.100.000 | 1.900.200.000 |
 | Tisogno         | 1.957.000.000 | 1.957.999.999 |
