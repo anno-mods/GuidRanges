@@ -136,6 +136,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Garthnait       | 2.145.000.001 | 2.145.009.999 |
 | Shounbourgh     | 2.145.010.000 | 2.145.010.999 |
 | arcalys         | 2.145.100.000 | 2.145.100.999 |
+| CaptainHurricane | 2.146.000.000 | 2.146.000.999 |
 | Jakob           | 2.147.483.600 | 2.147.483.609 |
 
 ### How To
