@@ -138,6 +138,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Shounbourgh     | 2.145.010.000 | 2.145.010.999 |
 | arcalys         | 2.145.100.000 | 2.145.100.999 |
 | Jakob           | 2.147.483.600 | 2.147.483.609 |
+| zakraffy        | 2.147.483.610 | 2.147.483.620 |
 
 ### How To
 
