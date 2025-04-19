@@ -93,6 +93,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | JohnSpoc        | 1.888.888.000 | 1.888.988.000 |
 | Satanoy         | 1.888.999.001 | 1.889.000.000 |
 | Grusin99        | 1.900.000.000 | 1.900.009.999 |
+| zakraffy        | 1.900.050.000 | 1.900.051.000 |
 | Fridhmyr        | 1.900.100.000 | 1.900.200.000 |
 | Tisogno         | 1.957.000.000 | 1.957.999.999 |
 | Incipium        | 1.998.000.000 | 1.998.999.999 |
@@ -138,7 +139,6 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Shounbourgh     | 2.145.010.000 | 2.145.010.999 |
 | arcalys         | 2.145.100.000 | 2.145.100.999 |
 | Jakob           | 2.147.483.600 | 2.147.483.609 |
-| zakraffy        | 2.147.483.610 | 2.147.483.620 |
 
 ### How To
 
