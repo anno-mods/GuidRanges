@@ -138,7 +138,10 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Garthnait       | 2.145.000.001 | 2.145.009.999 |
 | Shounbourgh     | 2.145.010.000 | 2.145.010.999 |
 | arcalys         | 2.145.100.000 | 2.145.100.999 |
+| reserved for special cases       | 2.147.480.000 | 2.147.483.599 |
 | Jakob           | 2.147.483.600 | 2.147.483.609 |
+| reserved for special cases       | 2.147.483.610 | 2.147.483.647 |
+| **range end**   |  |  |
 
 ### How To
 
