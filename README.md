@@ -161,6 +161,9 @@ If you want to contribute your range, we suggest the following:
 3. Add your GUID range to the table
 4. Submit a [pull request](https://github.com/anno-mods/GuidRanges/pulls)
 
+Note about *reserved for special cases*: It is okay to reserve a small range here, if you need GUIDs that are guaranteed to be higher than most others.
+This can be the case when order is decided by GUID for example, and you want your entry to be last.
+
 ## Community GUID ranges (Deutsche Version)
 
 [Ubisoft](https://anno-union.com/en/new-anno-union-history-edition-update-anno-afternoon/) hat uns einen offiziellen *sicheren* Bereich gegeben, in dem Modder neue GUIDs anlegen können:
