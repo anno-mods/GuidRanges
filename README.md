@@ -115,6 +115,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Hackner         | 2.103.690.000 | 2.103.699.999 |
 | Melliores       | 2.103.700.000 | 2.103.700.999 |
 | jookeers        | 2.103.701.000 | 2.103.701.999 |
+| PlatonischerRebell        | 2.104.701.000 | 2.104.701.999 |
 | Phloup          | 2.122.330.000 | 2.122.339.999 |
 | Maliatchi       | 2.122.340.000 | 2.122.340.999 |
 | GaiusG          | 2.122.341.000 | 2.122.341.999 |
