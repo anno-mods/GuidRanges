@@ -72,7 +72,7 @@ When using new ItemAllocations, make sure you use **compatible** code like this 
 Enum | Author | Mod
 --- | --- | ---
 Mod1 | Qurila | Combinated Allocations |
-Mod2 | 
+Mod2 | Serpens66 | Sabotage Spy |
 Mod3 |
 Mod4 |
 Mod5 |
