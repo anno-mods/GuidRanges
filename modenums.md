@@ -191,7 +191,7 @@ Mod6 |
 Mod7 |
 Mod8 |
 Mod9 |
-Mod10 | Serp | Limited Defense |
+Mod10 | Serp | Limited Defense and Sabotage |
 Mod11 | Hier0nimus | Navy Recruitment Office - Military Attention |
 Mod12 | Hier0nimus | Sanitation Facility - Military Attention |
 Mod13 | Hier0nimus | Clean Water Pump - Military Attention |
