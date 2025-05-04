@@ -144,6 +144,11 @@ Mod17 |
 Mod18 |
 Mod19 |
 Mod20 |
+Test_Doedel | Taubenangriff | New Horizons |
+Workforce_Commuter_Captain | Taubenangriff | New Horizons |
+Campaign_character_10_SA_ticketseller | Taubenangriff | New Horizons |
+Resident_tier05_atWork | Taubenangriff | New Horizons |
+Advisor_01_Hannah_BlackDress | Taubenangriff | New Horizons |
 
 ## Region
 
