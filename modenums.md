@@ -72,7 +72,7 @@ When using new ItemAllocations, make sure you use **compatible** code like this 
 Enum | Author | Mod
 --- | --- | ---
 Mod1 | Qurila | Combinated Allocations |
-Mod2 | 
+Mod2 | Serpens66 | Sabotage Spy |
 Mod3 |
 Mod4 |
 Mod5 |
@@ -144,6 +144,11 @@ Mod17 |
 Mod18 |
 Mod19 |
 Mod20 |
+Test_Doedel | Taubenangriff | New Horizons |
+Workforce_Commuter_Captain | Taubenangriff | New Horizons |
+Campaign_character_10_SA_ticketseller | Taubenangriff | New Horizons |
+Resident_tier05_atWork | Taubenangriff | New Horizons |
+Advisor_01_Hannah_BlackDress | Taubenangriff | New Horizons |
 
 ## Region
 
@@ -191,7 +196,7 @@ Mod6 |
 Mod7 |
 Mod8 |
 Mod9 |
-Mod10 | Serp | Limited Defense |
+Mod10 | Serp | Limited Defense and Sabotage |
 Mod11 | Hier0nimus | Navy Recruitment Office - Military Attention |
 Mod12 | Hier0nimus | Sanitation Facility - Military Attention |
 Mod13 | Hier0nimus | Clean Water Pump - Military Attention |

@@ -64,11 +64,11 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Spice it Up 3.0 | 1.440.133.000 | 1.440.137.199 |
 | Taubenangriff   | 1.440.138.000 | 1.440.138.999 |
 | Serp's Mods     | 1.500.000.000 | 1.500.010.000 |
-| Jakob           | 1.500.010.001 | 1.500.019.999 |
-| NW Tier 4       | 1.500.020.000 | 1.500.023.999 |
+| Jakob           | 1.500.010.001 | 1.500.023.999 |
 | Rodagasto       | 1.500.024.000 | 1.500.024.999 |
 | ManuKero        | 1.500.027.000 | 1.500.027.999 |
 | MrR0b3rt        | 1.500.030.000 | 1.500.039.999 |
+| NW Tier 4       | 1.500.040.000 | 1.500.099.999 |
 | bergi           | 1.500.100.000 | 1.500.100.999 |
 | UhrMensch       | 1.500.110.000 | 1.500.112.999 |
 | HerrTurTur      | 1.500.113.000 | 1.500.113.999 |
@@ -91,7 +91,9 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Alex.S.         | 1.800.003.000 | 1.800.004.000 |
 | Hanthe2th       | 1.821.456.000 | 1.821.457.000 |
 | JohnSpoc        | 1.888.888.000 | 1.888.988.000 |
+| Satanoy         | 1.888.999.001 | 1.889.000.000 |
 | Grusin99        | 1.900.000.000 | 1.900.009.999 |
+| zakraffy        | 1.900.050.000 | 1.900.051.000 |
 | Fridhmyr        | 1.900.100.000 | 1.900.200.000 |
 | Tisogno         | 1.957.000.000 | 1.957.999.999 |
 | Incipium        | 1.998.000.000 | 1.998.999.999 |
@@ -113,6 +115,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Hackner         | 2.103.690.000 | 2.103.699.999 |
 | Melliores       | 2.103.700.000 | 2.103.700.999 |
 | jookeers        | 2.103.701.000 | 2.103.701.999 |
+| PlatonischerRebell        | 2.104.701.000 | 2.104.701.999 |
 | Phloup          | 2.122.330.000 | 2.122.339.999 |
 | Maliatchi       | 2.122.340.000 | 2.122.340.999 |
 | GaiusG          | 2.122.341.000 | 2.122.341.999 |
@@ -137,7 +140,10 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Shounbourgh     | 2.145.010.000 | 2.145.010.999 |
 | arcalys         | 2.145.100.000 | 2.145.100.999 |
 | CaptainHurricane | 2.146.000.000 | 2.146.000.999 |
+| reserved for special cases       | 2.147.480.000 | 2.147.483.599 |
 | Jakob           | 2.147.483.600 | 2.147.483.609 |
+| reserved for special cases       | 2.147.483.610 | 2.147.483.647 |
+| **range end**   |  |  |
 
 ### How To
 
@@ -156,6 +162,9 @@ If you want to contribute your range, we suggest the following:
 2. Edit the ```README.md``` on your fork
 3. Add your GUID range to the table
 4. Submit a [pull request](https://github.com/anno-mods/GuidRanges/pulls)
+
+Note about *reserved for special cases*: It is okay to reserve a small range here, if you need GUIDs that are guaranteed to be higher than most others.
+This can be the case when order is decided by GUID for example, and you want your entry to be last.
 
 ## Community GUID ranges (Deutsche Version)
 
