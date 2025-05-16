@@ -82,6 +82,7 @@ Before reserving one of the 256 limited InternalIDs, you may try different code,
 | 81 | Lion053 | Enbesa Desert Street OW / NW |
 | 82 | Vanilla | Nationalpark See 1 OW / NW |
 | 83 | Vanilla | Nationalpark See 2 OW / NW |
+| 85 | Kurila | Land Quay Street Asia |
 | 86 | Kurila | Quay Street Africa |
 | 87 | Kurila | Quay Street Arctic |
 | 88 | Lrds42 | Land Quay Street OW |
