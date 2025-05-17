@@ -108,6 +108,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | *Personal use*  | 2.001.000.000 | 2.001.009.999 |
 | Yunaicy         | 2.002.000.000 | 2.002.009.999 |
 | Yodel Kindergarten          | 2.023.000.000 | 2.025.999.999 |
+| Criss McCloud   | 2.026.500.000 | 2.026.500.999 |
 | JimDiGriz77     | 2.077.000.000 | 2.077.999.999 |
 | Sir Ludicrous   | 2.100.000.000 | 2.100.114.999 |
 | Lion053         | 2.100.115.000 | 2.100.119.999 |
