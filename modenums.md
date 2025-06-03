@@ -11,6 +11,9 @@ Please always consider alternatives before taking one of the precious enum slots
   - [SocketScopeRadiusOverlapCategory](#socketscoperadiusoverlapcategory)
   - [UniqueType](#uniquetype)
   - [FestivalType](#festivaltype)
+  - [DifficultyCategory](#difficultycategory)
+  - [GenericPopup](#genericpopup)
+
 
 ## FreeAreaType
 
@@ -340,4 +343,25 @@ Stadium12 | Taludas | Noblesse Oblige |
 Stadium13 | 
 Stadium14 | 
 Stadium15 | Tisogno | Mayan Treasures |
+
+
+## DifficultyCategory
+
+Does not have any Mod Enums, so only overwriting (unused or only in scenario used) vanilla enums is possible.  
+
+Enum | Author | Mod
+--- | --- | ---
+OptionalQuestRewards | Taubenangriff | New Horizons |
+OptionalQuestTimeout | Serpens66 | QuestTimelimit_StartOption_Serp |
+
+
+## GenericPopup
+
+Does not have any Mod Enums, so only overwriting vanilla enums is possible.  
+The only GenericPopup enum that is surely not needed on PC is ResetConsoleOptionsConfirmation. And I (Serp) use it to show [incompatible mods](https://github.com/anno-mods/BugFixes/tree/main/%5BFix%5D%20Community%20Bugfixes/shared_mods/shared_IncompatibleModsPopUp). I made an attempt for shared_PopUp, but stopped working on it because PopUps are very unreliable if you need any input from the user, see here for the attempt: [shared_PopUp](https://github.com/Serpens66/Anno-1800-Mods/tree/master/WorkInProgress-Mods/shared_PopUp).  
+
+Enum | Author | Mod
+--- | --- | ---
+ResetConsoleOptionsConfirmation | Serpens66 | shared_IncompatibleModsPopUp |
+
 
