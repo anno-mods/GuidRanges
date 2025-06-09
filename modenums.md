@@ -179,7 +179,7 @@ Mod11 |
 Mod12 |
 Mod13 |
 Mod14 |
-Mod15 |
+Mod15 | Tisogno | Horai Tourism
 Mod16 |
 Mod17 |
 Mod18 |
@@ -251,7 +251,7 @@ Mod14 | Hier0nimus | Strategic Harbour - White & Cold |
 Mod15 | Tisogno | Maya Treasure
 Mod16 |
 Mod17 |
-Mod18 |
+Mod18 | Zazuno | Newspaper 
 Mod19 |
 Mod20 |
 
