@@ -47,6 +47,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Hackner         |   103.690.000 |   103.699.999 |
 | New Horizons    |   133.700.000 |   133.700.999 |
 | Zazuno          | 1.011.921.800 | 1.011.923.800 |
+| Asmodai         | 1.200.200.000 | 1.200.201.000 |
 | adjagu          | 1.337.471.142 | 1.337.471.999 |
 | Harlekin        | 1.337.472.000 | 1.337.472.999 |
 | stotzem         | 1.337.473.000 | 1.337.473.999 |
