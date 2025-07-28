@@ -141,8 +141,8 @@ Mod11 |
 Mod12 |
 Mod13 |
 Mod14 |
-Mod15 |
-Mod16 |
+Mod15 | Tisogno | Horai Tourism |
+Mod16 | Tisogno | Horai Tourism |
 Mod17 |
 Mod18 |
 Mod19 |
