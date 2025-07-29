@@ -137,7 +137,7 @@ Mod7 |
 Mod8 |
 Mod9 |
 Mod10 | Serp | shared Nature Participant (helper) |
-Mod11 |
+Mod11 | Serp | shared Trader piratemode-attackable (helper) |
 Mod12 |
 Mod13 |
 Mod14 |
