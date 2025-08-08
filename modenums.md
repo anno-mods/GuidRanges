@@ -369,6 +369,7 @@ ResetConsoleOptionsConfirmation | Serpens66 | shared_IncompatibleModsPopUp |
 ## Keybindings
 
 Keybinds added by mods to GUID 2001271. Just to make sure the same keybind is not used by multiple mods.  
+To check vanilla keybinds either search assets.xml for KeyTypes and your keybind, check ingame or see the wiki: https://anno1800.fandom.com/wiki/Keyboard_shortcuts  
 
 KeyTypes | Author | Mod | Usage |
 --- | --- | --- |--- 
