@@ -368,9 +368,9 @@ ResetConsoleOptionsConfirmation | Serpens66 | shared_IncompatibleModsPopUp |
 
 ## Keybindings
 
-Keybinds added by mods. Just to make sure the same keybind is not used by multiple mods.  
+Keybinds added by mods to GUID 2001271. Just to make sure the same keybind is not used by multiple mods.  
 
-Enum | Author | Mod | Usage |
+KeyTypes | Author | Mod | Usage |
 --- | --- | --- |--- 
 Shift;J | Serpens66 | Repair All Ruins Key (Serp) | Repairs all ruins when hit, regardless what is selected |
 Alt;U | Serpens66 | shared_Downgrade_Keyind_Serp | Downgrades the current selected building if it is downgradeable |
