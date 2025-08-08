@@ -370,9 +370,9 @@ ResetConsoleOptionsConfirmation | Serpens66 | shared_IncompatibleModsPopUp |
 
 Keybinds added by mods. Just to make sure the same keybind is not used by multiple mods.  
 
-Enum | Author | Mod
+Enum | Author | Mod | Usage
 --- | --- | ---
-Shift;J | Serpens66 | Repair All Ruins Key (Serp) |
-Alt;U | Serpens66 | shared_Downgrade_Keyind_Serp |
-Shift;C | Kurila | shared_ui_change_kurila |
+Shift;J | Serpens66 | Repair All Ruins Key (Serp) | Repairs all ruins when hit, regardless what is selected |
+Alt;U | Serpens66 | shared_Downgrade_Keyind_Serp | Downgrades the current selected building if it is downgradeable |
+Shift;C | Kurila | shared_ui_change_kurila | Locks/Unlocks an Asset to make all supported buildings change their GUIType to SecondGUIType |
 
