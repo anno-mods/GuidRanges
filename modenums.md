@@ -132,7 +132,7 @@ Mod2 | Taubenangriff | New Horizons |
 Mod3 | Taubenangriff | New Horizons |
 Mod4 | Taubenangriff | New Horizons |
 Mod5 | Taludas | Noblesse Oblige |
-Mod6 |
+Mod6 | NWTier4 | New World Tier 4 |
 Mod7 |
 Mod8 |
 Mod9 |
