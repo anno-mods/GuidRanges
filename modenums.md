@@ -13,6 +13,7 @@ Please always consider alternatives before taking one of the precious enum slots
   - [FestivalType](#festivaltype)
   - [DifficultyCategory](#difficultycategory)
   - [GenericPopup](#genericpopup)
+  - [Keybindings](#keybindings)
 
 
 ## FreeAreaType
@@ -364,4 +365,14 @@ Enum | Author | Mod
 --- | --- | ---
 ResetConsoleOptionsConfirmation | Serpens66 | shared_IncompatibleModsPopUp |
 
+
+## Keybindings
+
+Keybinds added by mods. Just to make sure the same keybind is not used by multiple mods.  
+
+Enum | Author | Mod
+--- | --- | ---
+Shift;J | Serpens66 | Repair All Ruins Key (Serp) |
+Alt;U | Serpens66 | shared_Downgrade_Keyind_Serp |
+Shift;C | Kurila | shared_ui_change_kurila |
 
