@@ -62,6 +62,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Pawel Malecki   | 1.400.000.000 | 1.400.099.999 |
 | Fruti           | 1.400.100.000 | 1.400.100.199 |
 | Xobra           | 1.400.200.000 | 1.400.200.999 |
+| Intetsch        | 1.400.201.000 | 1.400.201.999 |
 | Lordys          | 1.404.410.000 | 1.404.449.999 |
 | Phatchara       | 1.410.000.000 | 1.410.000.999 |
 | New Horizons    | 1.414.000.000 | 1.414.999.999 |
