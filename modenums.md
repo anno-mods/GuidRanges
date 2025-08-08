@@ -376,4 +376,8 @@ KeyTypes | Author | Mod | Usage |
 Shift;J | Serpens66 | Repair All Ruins Key (Serp) | Repairs all ruins when hit, regardless what is selected |
 Alt;U | Serpens66 | shared_Downgrade_Keyind_Serp | Downgrades the current selected building if it is downgradeable |
 Shift;C | Kurila | shared_ui_change_kurila | Locks/Unlocks an Asset to make all supported buildings change their GUIType to SecondGUIType |
+Shift;Alt;V | pnski | Hotkey Cycle Ship Skins | Cycles through skins of the currently selected object(s) |
+Shift;V | S1LV3R-p0tat0 | World War Ship | Next appearance of selected WW-ship |
+Shift;B | S1LV3R-p0tat0 | World War Ship | Previous appearance of selected WW-ship |
+Alt | S1LV3R-p0tat0 | World War Ship | Switch to Anti-air mod for WWS ships (code checks GUID of selection)  |
 
