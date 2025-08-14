@@ -379,7 +379,7 @@ Alt;W | Serpens66 | DiploActions_Serp | Command-Ally: Give the allied ship a mov
 Alt;Q | Serpens66 | DiploActions_Serp | Command-Ally: Give the allied ship an attack command |
 Shift;C | Kurila | shared_ui_change_kurila | Locks/Unlocks an Asset to make all supported buildings change their GUIType to SecondGUIType |
 Shift;Alt;V | pnski | Hotkey Cycle Ship Skins | Cycles through skins of the currently selected object(s) |
-Shift;V | S1LV3R-p0tat0 | World War Ship | Next appearance of selected WW-ship |
-Shift;B | S1LV3R-p0tat0 | World War Ship | Previous appearance of selected WW-ship |
-Alt | S1LV3R-p0tat0 | World War Ship | Switch to Anti-air mod for WWS ships (code checks GUID of selection)  |
+Shift;V | S1LV3R-p0tat0 | World War Ship | Next appearance-GUID of selected WW-ship |
+Shift;B | S1LV3R-p0tat0 | World War Ship | Previous appearance-GUID of selected WW-ship |
+Alt | S1LV3R-p0tat0 | World War Ship | Switch to Anti-air mode for WWS ships (code checks GUID of selection)  |
 
