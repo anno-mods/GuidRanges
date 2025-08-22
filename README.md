@@ -59,6 +59,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | muggenstuermer  | 1.337.500.000 | 1.337.519.999 |
 | zeltice         | 1.337.520.000 | 1.337.529.999 |
 | schwubbe        | 1.357.000.000 | 1.359.999.999 |
+| Sabular/Sabunata| 1.360.000.000 | 1.360.099.999 |
 | Pawel Malecki   | 1.400.000.000 | 1.400.099.999 |
 | Fruti           | 1.400.100.000 | 1.400.100.199 |
 | Xobra           | 1.400.200.000 | 1.400.200.999 |
