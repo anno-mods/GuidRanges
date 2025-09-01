@@ -1,3 +1,7 @@
+# GUID Ranges
+
+You can pick from the following *safe* GUID range: **1.337.471.142 - 2.147.483.647**.
+
 ### Personal GUID Range
 
 If you do not publish mods, but want to have some safe GUIDs to use for personal usage, you can use the `Personal use` range.
