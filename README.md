@@ -2,7 +2,7 @@
 
 ## Anno 117
 
-- [GUIDs](./1800/guids.md)
+- [GUIDs](./117/guids.md)
 
 ## Anno 1800
 
