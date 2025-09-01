@@ -1,4 +1,4 @@
-# Mod Enums
+# Anno 1800 Enums
 
 Please always consider alternatives before taking one of the precious enum slots.
 

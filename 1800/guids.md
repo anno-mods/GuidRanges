@@ -1,4 +1,4 @@
-# GUID Ranges
+# Anno 1800 GUID Ranges
 
 You can pick from the following *safe* GUID range: **1.337.471.142 - 2.147.483.647**.
 
