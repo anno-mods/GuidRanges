@@ -1,3 +1,5 @@
+# Anno 1800 InternalIDs
+
 Before reserving one of the 256 limited InternalIDs, you may try different code, like the one from vanilla Hacienda path GUID 25224. It uses GroundDecalAsset to get the street functionality, while itself does not require any InternalID. If your mod-street is just about graphics and not about special functionality, this might work for you without needing your own InteralID.
 
 | ID | Owner | Name |
