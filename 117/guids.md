@@ -28,28 +28,28 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | stotzem         | 1.337.473.000 | 1.337.473.999 | no
 | Fiasco          | 1.337.474.000 | 1.337.474.999 | no
 | Phreakz         | 1.337.475.000 | 1.337.476.999 | no
-| Mensmaximus     | 1.337.477.000 | 1.337.478.999 | no
+| Mensmaximus     | 1.337.477.000 | 1.337.478.999 |
 | Lethani         | 1.337.499.000 | 1.337.499.999 | no
 | muggenstuermer  | 1.337.500.000 | 1.337.519.999 |
 | zeltice         | 1.337.520.000 | 1.337.529.999 | no
-| schwubbe        | 1.357.000.000 | 1.357.099.999 |
+| schwubbe        | 1.357.000.000 | 1.357.009.999 |
 | Sabular/Sabunata| 1.360.000.000 | 1.360.099.999 |
 | Pawel Malecki   | 1.400.000.000 | 1.400.099.999 | no
 | Fruti           | 1.400.100.000 | 1.400.100.199 | no
 | Xobra           | 1.400.200.000 | 1.400.200.999 | no
-| Intetsch        | 1.400.201.000 | 1.400.201.999 | no
+| Intetsch        | 1.400.201.000 | 1.400.201.999 |
 | Lordys          | 1.404.410.000 | 1.404.449.999 | no
 | Phatchara       | 1.410.000.000 | 1.410.000.999 | no
 | Chocolate Project | 1.415.000.000 | 1.415.009.999 | no
 | Vaeloridas      | 1.416.000.000 | 1.416.099.999 | no
 | Taubenangriff   | 1.440.138.000 | 1.440.138.999 | no
-| Serp's Mods     | 1.500.000.000 | 1.500.010.000 | no
+| Serp's Mods     | 1.500.000.000 | 1.500.010.000 |
 | Rodagasto       | 1.500.024.000 | 1.500.024.999 | no
 | ManuKero        | 1.500.027.000 | 1.500.027.999 | no
 | MrR0b3rt        | 1.500.030.000 | 1.500.039.999 | no
 | bergi           | 1.500.100.000 | 1.500.100.999 | no
 | UhrMensch       | 1.500.110.000 | 1.500.112.999 | no
-| HerrTurTur      | 1.500.113.000 | 1.500.113.999 | no
+| HerrTurTur      | 1.500.113.000 | 1.500.113.999 |
 | Gensho          | 1.500.200.000 | 1.500.200.999 | no
 | RafaelExposito  | 1.500.201.000 | 1.500.201.999 | no
 | Qurila          | 1.500.300.000 | 1.500.303.999 |
@@ -70,7 +70,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Hanthe2th       | 1.821.456.000 | 1.821.457.000 | no
 | JohnSpoc        | 1.888.888.000 | 1.888.987.999 | no
 | Satanoy         | 1.888.999.000 | 1.888.099.999 | no
-| Grusin99        | 1.900.000.000 | 1.900.009.999 | no
+| Grusin99        | 1.900.000.000 | 1.900.009.999 |
 | zakraffy        | 1.900.050.000 | 1.900.051.000 | no
 | Fridhmyr        | 1.900.100.000 | 1.900.199.999 | no
 | Tisogno         | 1.957.000.000 | 1.957.099.999 | no
@@ -83,7 +83,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | citybuilders    | 2.000.502.000 | 2.000.502.999 | no
 | 0skater0        | 2.000.510.000 | 2.000.519.999 | no
 | HadleyB         | 2.000.999.000 | 2.000.999.999 | no
-| *personal use*  | 2.001.000.000 | 2.001.009.999 | no
+| *personal use*  | 2.001.000.000 | 2.001.009.999 |
 | Yunaicy         | 2.002.000.000 | 2.002.009.999 | no
 | Yodel Kindergarten | 2.023.000.000 | 2.023.099.999 | no
 | Criss McCloud   | 2.026.500.000 | 2.026.500.999 | no
