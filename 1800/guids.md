@@ -73,6 +73,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 |Terra Lion       | 1.610.000.000 | 1.610.019.999 |
 | Pnski           | 1.600.000.000 | 1.600.020.000 |
 | 2VetOp          | 1.632.000.000 | 1.633.000.000 |
+| DanceInGold     | 1.644.000.000 | 1.650.000.000 |
 | Fam             | 1.660.010.000 | 1.660.019.999 |
 | sd808           | 1.738.000.000 | 1.738.099.999 |
 | Hier0nimus      | 1.742.000.000 | 1.742.999.999 |
