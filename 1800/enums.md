@@ -166,8 +166,8 @@ Mod3 |
 
 Enum | Author | Mod
 --- | --- | ---
-Mod1 | Nils/Serp | TradePrice Upgrade
-Mod2 | Nils/Serp | TradePrice Upgrade
+Mod1 | Nils/Serp | Exclusive Trader Groups
+Mod2 | Nils/Serp | Exclusive Trader Groups
 Mod3 |
 Mod4 |
 Mod5 |
