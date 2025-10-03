@@ -77,7 +77,7 @@ Enum | Author | Mod
 --- | --- | ---
 Mod1 | Qurila | Combinated Allocations |
 Mod2 | Serpens66 | Sabotage Spy |
-Mod3 |
+Mod3 | neltymind/Nils | Central Item Hub |
 Mod4 |
 Mod5 |
 Mod6 | Taubenangriff / Hier0nimus | Diplomacy Flags
@@ -166,8 +166,8 @@ Mod3 |
 
 Enum | Author | Mod
 --- | --- | ---
-Mod1 | Nils/Serp | Exclusive Trader Groups
-Mod2 | Nils/Serp | Exclusive Trader Groups
+Mod1 | neltymind/Serp | Exclusive Trader Groups
+Mod2 | neltymind/Serp | Exclusive Trader Groups
 Mod3 |
 Mod4 |
 Mod5 |
