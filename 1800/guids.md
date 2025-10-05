@@ -84,6 +84,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | JohnSpoc        | 1.888.888.000 | 1.888.988.000 |
 | Satanoy         | 1.888.999.001 | 1.889.000.000 |
 | Grusin99        | 1.900.000.000 | 1.900.009.999 |
+| neltymind/Nils  | 1.900.010.000 | 1.900.010.099 |
 | zakraffy        | 1.900.050.000 | 1.900.051.000 |
 | Fridhmyr        | 1.900.100.000 | 1.900.200.000 |
 | Tisogno         | 1.957.000.000 | 1.957.999.999 |
