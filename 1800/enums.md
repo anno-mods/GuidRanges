@@ -77,7 +77,7 @@ Enum | Author | Mod
 --- | --- | ---
 Mod1 | Qurila | Combinated Allocations |
 Mod2 | Serpens66 | Sabotage Spy |
-Mod3 | neltymind/Nils | Central Item Hub |
+Mod3 | 
 Mod4 |
 Mod5 |
 Mod6 | Taubenangriff / Hier0nimus | Diplomacy Flags
