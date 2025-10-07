@@ -77,7 +77,7 @@ Enum | Author | Mod
 --- | --- | ---
 Mod1 | Qurila | Combinated Allocations |
 Mod2 | Serpens66 | Sabotage Spy |
-Mod3 | 
+Mod3 | Drakkam | New Population merchants |
 Mod4 |
 Mod5 |
 Mod6 | Taubenangriff / Hier0nimus | Diplomacy Flags
@@ -134,7 +134,7 @@ Mod3 | Taubenangriff | New Horizons |
 Mod4 | Taubenangriff | New Horizons |
 Mod5 | Taludas | Noblesse Oblige |
 Mod6 | NWTier4 | New World Tier 4 |
-Mod7 |
+Mod7 | Drakkam | New Population Merchants |
 Mod8 |
 Mod9 |
 Mod10 | Serp | shared Nature Participant (helper) |
@@ -192,7 +192,7 @@ Mod20 |
 Enum | Author | Mod
 --- | --- | ---
 Mod1 |
-Mod2 |
+Mod2 | Drakkam | New Population Merchants |
 Mod3 |
 Mod4 |
 Mod5 |
@@ -240,8 +240,8 @@ Mod2 | Qurila | Job Advertisements
 Mod3 | Drakkam/Taubenangriff/Taludas | Shared Foreign Trading Company
 Mod4 | Serpens66 | Sabotage
 Mod5 | Nils | Central Item Hub
-Mod6 |
-Mod7 |
+Mod6 | Drakkam | New Population Merchants |
+Mod7 | Drakkam | New Population Merchants |
 Mod8 |
 Mod9 |
 Mod10 | Khobs | New World Palace
