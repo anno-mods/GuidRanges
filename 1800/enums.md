@@ -254,7 +254,7 @@ Mod16 |
 Mod17 |
 Mod18 | Zazuno | Newspaper 
 Mod19 |
-Mod20 |
+Mod20 | Mensmaximus | Citizens Office
 
 There are certain unused vanilla UniqueType enums available in certain sessions.
 
