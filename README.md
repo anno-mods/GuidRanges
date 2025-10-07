@@ -19,6 +19,7 @@ Common resources and links to products and other shared mods: [shared-resources]
 You can pick from the following *safe* GUID range: **1.337.471.142 - 2.147.483.647**
 
 > Older Mods like *Spice it Up* will still use *older and unsafe* GUID ranges, but they will not be changed due to savegame compability.
+
 If you need help adding your range or want to talk, you can join us on [Discord](https://discord.gg/KEVaVby)
 
 
@@ -39,6 +40,7 @@ This can be the case when order is decided by GUID for example, and you want you
 Aus dem folgenden Bereich kann gewählt werden: **1.337.471.142 - 2.147.483.647**
 
 > Ältere Mods wie *Spice it Up* verwenden auch *alte und unsichere* GUID-Bereiche, da sie vor Bekanntgabe des offiziellen Bereiches erstellt worden sind. Diese werden aus Kompabilitätsgründen mit alten Spielständen nicht angepasst.
+
 Wenn du keine Mods veröffentlichst, aber für persönliche Veränderungen sichere GUIDs haben willst, kanns du Nummern aus dem `Personal use`-Bereich nehmen.
 
 Wenn du dabei Hilfe benötigst, deinen eigenen GUID-Bereich hinzuzufügen, oder einfach reden willst, trete uns doch auf [Discord](https://discord.gg/KEVaVby) bei.
