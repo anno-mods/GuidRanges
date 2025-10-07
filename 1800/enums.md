@@ -239,7 +239,7 @@ Mod1 | Lion053 | Subway Network
 Mod2 | Qurila | Job Advertisements
 Mod3 | Drakkam/Taubenangriff/Taludas | Shared Foreign Trading Company
 Mod4 | Serpens66 | Sabotage
-Mod5 |
+Mod5 | Nils | Central Item Hub
 Mod6 |
 Mod7 |
 Mod8 |
