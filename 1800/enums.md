@@ -86,9 +86,9 @@ Mod8 |
 Mod9 | Hier0nimus | Support Ships
 Mod10 | S1LV3R-p0tat0 / Hier0nimus | Torpedo Launcher
 Mod11 | S1LV3R-p0tat0 | Kamikaze Plane
-Mod12 |
-Mod13 |
-Mod14 |
+Mod12 | jje1000 | NW Tier 4 | 
+Mod13 | jje1000 | NW Tier 4 | 
+Mod14 | jje1000 | NW Tier 4 | 
 Mod15 | Tisogno | Maya Treasures |
 Mod16 |
 Mod17 |
