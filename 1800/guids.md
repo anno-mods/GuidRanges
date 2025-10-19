@@ -122,6 +122,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Finchen         | 2.130.020.000 | 2.130.020.999 |
 | lsalazarm99     | 2.130.021.000 | 2.130.021.999 |
 | Pinkcamouflage  | 2.130.022.000 | 2.130.022.999 |
+| rty-666         | 2.130.023.000 | 2.130.023.999 |
 | Spectra Arcrex  | 2.140.000.000 | 2.140.000.999 |
 | Fistfullobeer   | 2.140.001.000 | 2.140.002.999 |
 | Wolfman         | 2.141.010.000 | 2.141.011.999 |
