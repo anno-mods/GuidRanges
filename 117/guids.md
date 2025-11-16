@@ -46,13 +46,15 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Serp's Mods     | 1.500.000.000 | 1.500.010.000 |
 | Rodagasto       | 1.500.024.000 | 1.500.024.999 | no
 | ManuKero        | 1.500.027.000 | 1.500.027.999 | no
-| MrR0b3rt        | 1.500.030.000 | 1.500.039.999 | no
+| MrR0b3rt        | 1.500.030.000 | 1.500.039.999 |
+| Jester          | 1.500.040.000 | 1.500.049.999 | NEW
 | bergi           | 1.500.100.000 | 1.500.100.999 | no
 | UhrMensch       | 1.500.110.000 | 1.500.112.999 | no
 | HerrTurTur      | 1.500.113.000 | 1.500.113.999 |
 | Gensho          | 1.500.200.000 | 1.500.200.999 | no
 | RafaelExposito  | 1.500.201.000 | 1.500.201.999 | no
 | Qurila          | 1.500.300.000 | 1.500.303.999 |
+| DukeJeans       | 1.500.500.000 | 1.500.504.999 |
 | Builder_HD      | 1.507.000.000 | 1.507.000.999 | no
 | S1LV3R-p0tat0   | 1.510.000.000 | 1.510.003.000 | no
 | Jaradis         | 1.554.900.000 | 1.554.999.999 | no
@@ -62,6 +64,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | 2VetOp          | 1.632.000.000 | 1.632.099.999 | no
 | Fam             | 1.660.010.000 | 1.660.019.999 | no
 | sd808           | 1.738.000.000 | 1.738.099.999 | no
+| sssCouchPotato  | 1.739.000.000 | 1.739.000.999 |
 | Hier0nimus      | 1.742.000.000 | 1.742.099.999 |
 | AnnoX7          | 1.743.000.000 | 1.743.099.999 | no
 | Lady Meridonia  | 1.777.650.000 | 1.777.659.999 | no

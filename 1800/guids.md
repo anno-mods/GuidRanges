@@ -74,6 +74,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Pnski           | 1.600.000.000 | 1.600.020.000 |
 | 2VetOp          | 1.632.000.000 | 1.633.000.000 |
 | DanceInGold     | 1.644.000.000 | 1.650.000.000 |
+| Robin           | 1.651.000.000 | 1.651.001.000 |
 | Fam             | 1.660.010.000 | 1.660.019.999 |
 | sd808           | 1.738.000.000 | 1.738.099.999 |
 | Hier0nimus      | 1.742.000.000 | 1.742.999.999 |
@@ -85,7 +86,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | JohnSpoc        | 1.888.888.000 | 1.888.988.000 |
 | Satanoy         | 1.888.999.001 | 1.889.000.000 |
 | Grusin99        | 1.900.000.000 | 1.900.009.999 |
-| neltymind/Nils  | 1.900.010.000 | 1.900.010.099 |
+| neltymind/Nils  | 1.900.010.000 | 1.900.019.999 |
 | zakraffy        | 1.900.050.000 | 1.900.051.000 |
 | Fridhmyr        | 1.900.100.000 | 1.900.200.000 |
 | Tisogno         | 1.957.000.000 | 1.957.999.999 |
@@ -122,6 +123,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Finchen         | 2.130.020.000 | 2.130.020.999 |
 | lsalazarm99     | 2.130.021.000 | 2.130.021.999 |
 | Pinkcamouflage  | 2.130.022.000 | 2.130.022.999 |
+| rty-666         | 2.130.023.000 | 2.130.023.999 |
 | Spectra Arcrex  | 2.140.000.000 | 2.140.000.999 |
 | Fistfullobeer   | 2.140.001.000 | 2.140.002.999 |
 | Wolfman         | 2.141.010.000 | 2.141.011.999 |
