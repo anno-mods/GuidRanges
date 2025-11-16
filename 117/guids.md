@@ -2,8 +2,8 @@
 
 You can pick from the following *safe* GUID range: **1.337.471.142 - 2.147.483.647**.
 
-Start with a range of 10.000 GUIDs if you're unsure how much you need.
-It's OK to use more (for example 100.000 GUIDs) if you need it.
+Start with a range of 1.000 GUIDs if you're unsure how much you need.
+It's OK to use more (for example 10.000-100.000 GUIDs) if you really need it, but even many longtime modders for Anno 1800 did not even reach 10.000 within years.
 
 ## Personal GUID Range
 
@@ -32,6 +32,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Qurila          | 1.500.300.000 | 1.500.303.999 |
 | DukeJeans       | 1.500.500.000 | 1.500.504.999 |
 | Drakkam         | 1.555.000.000 | 1.555.099.999 |
+| Cheap Orange    | 1.700.100.000 | 1.700.109.999 |
 | sssCouchPotato  | 1.739.000.000 | 1.739.000.999 |
 | Hier0nimus      | 1.742.000.000 | 1.742.099.999 |
 | Grusin99        | 1.900.000.000 | 1.900.009.999 |
