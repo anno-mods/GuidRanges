@@ -2,13 +2,8 @@
 
 You can pick from the following *safe* GUID range: **1.337.471.142 - 2.147.483.647**.
 
-## Please Confirm your Range
-
-The ranges were taken over from Anno 1800 to allow people keeping their ranges.
-
-Please confirm yours.
-
-Unconfirmed ranges will be considered not used with the release of the game.
+Start with a range of 10.000 GUIDs if you're unsure how much you need.
+It's OK to use more (for example 100.000 GUIDs) if you need it.
 
 ## Personal GUID Range
 
