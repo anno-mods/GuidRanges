@@ -47,6 +47,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Rodagasto       | 1.500.024.000 | 1.500.024.999 | no
 | ManuKero        | 1.500.027.000 | 1.500.027.999 | no
 | MrR0b3rt        | 1.500.030.000 | 1.500.039.999 |
+| Jester          | 1.500.040.000 | 1.500.049.999 | NEW
 | bergi           | 1.500.100.000 | 1.500.100.999 | no
 | UhrMensch       | 1.500.110.000 | 1.500.112.999 | no
 | HerrTurTur      | 1.500.113.000 | 1.500.113.999 |
