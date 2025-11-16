@@ -64,6 +64,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | 2VetOp          | 1.632.000.000 | 1.632.099.999 | no
 | Fam             | 1.660.010.000 | 1.660.019.999 | no
 | sd808           | 1.738.000.000 | 1.738.099.999 | no
+| sssCouchPotato  | 1.739.000.000 | 1.739.000.999 |
 | Hier0nimus      | 1.742.000.000 | 1.742.099.999 |
 | AnnoX7          | 1.743.000.000 | 1.743.099.999 | no
 | Lady Meridonia  | 1.777.650.000 | 1.777.659.999 | no
