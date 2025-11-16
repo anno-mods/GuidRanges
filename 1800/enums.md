@@ -238,12 +238,12 @@ Enum | Author | Mod
 Mod1 | Lion053 | Subway Network
 Mod2 | Qurila | Job Advertisements
 Mod3 | Drakkam/Taubenangriff/Taludas | Shared Foreign Trading Company
-Mod4 | Serpens66 | Sabotage |
-Mod5 | Nils | Central Item Hub |
+Mod4 | Serpens66 | Sabotage
+Mod5 | neltymind | Central Item Hub
 Mod6 | Drakkam | New Population Merchants |
 Mod7 | Drakkam | New Population Merchants |
-Mod8 | Nils | Central Item Hub |
-Mod9 | Nils | Central Item Hub |
+Mod8 | neltymind | Central Item Hub
+Mod9 | neltymind | Central Item Hub
 Mod10 | Khobs | New World Palace
 Mod11 | Hier0nimus | Fort - Military Attention / Crafting Centre - White & Cold |
 Mod12 | Hier0nimus | Military Headquarters - Military Attention / Coastal Centre - White & Cold |
