@@ -21,7 +21,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 ## Public GUID Ranges
 
 | User            |      Start ID |        End ID |
-| :-------------- | ------------: | ------------: | ---
+| :-------------- | ------------: | ------------: |
 | _**range start**_   | 1.337.471.142 |  |
 | *reserved for special cases* | 1.337.471.142 | 1.337.471.999 |
 | Mensmaximus     | 1.337.477.000 | 1.337.478.999 |
