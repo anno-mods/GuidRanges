@@ -27,6 +27,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Serp's Mods     | 1.500.000.000 | 1.500.010.000 |
 | MrR0b3rt        | 1.500.030.000 | 1.500.039.999 |
 | Jester          | 1.500.040.000 | 1.500.049.999 |
+| mrfixit         | 1.500.050.000 | 1.500.059.999 |
 | HerrTurTur      | 1.500.113.000 | 1.500.113.999 |
 | Gensho          | 1.500.200.000 | 1.500.200.999 |
 | Qurila          | 1.500.300.000 | 1.500.303.999 |
