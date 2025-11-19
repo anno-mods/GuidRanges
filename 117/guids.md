@@ -36,6 +36,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Cheap Orange    | 1.700.100.000 | 1.700.109.999 |
 | sssCouchPotato  | 1.739.000.000 | 1.739.000.999 |
 | Hier0nimus      | 1.742.000.000 | 1.742.099.999 |
+| 0skater0        | 1.742.500.000 | 1.742.599.999 |
 | Grusin99        | 1.900.000.000 | 1.900.009.999 |
 | Taludas         | 1.999.100.000 | 1.999.199.999 |
 | Vadim           | 2.000.100.000 | 2.000.100.999 |
