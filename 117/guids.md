@@ -33,6 +33,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | HerrTurTur      | 1.500.113.000 | 1.500.113.999 |
 | Gensho          | 1.500.200.000 | 1.500.200.999 |
 | Qurila          | 1.500.300.000 | 1.500.303.999 |
+| bergi           | 1.500.210.000 | 1.500.219.999 |
 | DukeJeans       | 1.500.500.000 | 1.500.504.999 |
 | Drakkam         | 1.555.000.000 | 1.555.099.999 |
 | Cheap Orange    | 1.700.100.000 | 1.700.109.999 |
