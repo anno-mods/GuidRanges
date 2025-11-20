@@ -42,6 +42,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | *personal use*  | 2.001.000.000 | 2.001.009.999 |
 | JimDiGriz77     | 2.077.000.000 | 2.077.999.999 |
 | Finchen         | 2.130.020.000 | 2.130.020.999 |
+| Fistfullobeer   | 2.140.000.000 | 2.140.019.999 |
 | Lirvan          | 2.141.592.000 | 2.141.593.999 |
 | reserved for special cases | 2.147.480.000 | 2.147.483.647 |
 | _**range end**_   | | 2.147.483.647 |
