@@ -3,7 +3,9 @@
 You can pick from the following *safe* GUID range: **1.337.471.142 - 2.147.483.647**.
 
 Start with a range of 1.000 GUIDs if you're unsure how much you need.
-It's OK to use more (for example 10.000-100.000 GUIDs) if you really need it, but even many longtime modders for Anno 1800 did not even reach 10.000 within years.
+10.000 GUIDs are usually enough.
+
+Avoid going above 100.000. If you do, make one entry per 100.000.
 
 ## Personal GUID Range
 
@@ -41,7 +43,17 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Taludas         | 1.999.100.000 | 1.999.199.999 |
 | Vadim           | 2.000.100.000 | 2.000.100.999 |
 | *personal use*  | 2.001.000.000 | 2.001.009.999 |
-| JimDiGriz77     | 2.077.000.000 | 2.077.999.999 |
+| Yodel Kindergarten | 2.023.000.000 | 2.023.099.999 |
+| JimDiGriz77     | 2.077.000.000 | 2.077.099.999 |
+| JimDiGriz77     | 2.077.100.000 | 2.077.199.999 |
+| JimDiGriz77     | 2.077.200.000 | 2.077.299.999 |
+| JimDiGriz77     | 2.077.300.000 | 2.077.399.999 |
+| JimDiGriz77     | 2.077.400.000 | 2.077.499.999 |
+| JimDiGriz77     | 2.077.500.000 | 2.077.599.999 |
+| JimDiGriz77     | 2.077.600.000 | 2.077.699.999 |
+| JimDiGriz77     | 2.077.700.000 | 2.077.799.999 |
+| JimDiGriz77     | 2.077.800.000 | 2.077.899.999 |
+| JimDiGriz77     | 2.077.900.000 | 2.077.999.999 |
 | Finchen         | 2.130.020.000 | 2.130.020.999 |
 | Fistfullobeer   | 2.140.000.000 | 2.140.019.999 |
 | Lirvan          | 2.141.592.000 | 2.141.593.999 |
