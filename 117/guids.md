@@ -10,6 +10,7 @@ It's OK to use more (for example 100.000 GUIDs) if you need it.
 If you do not publish mods, but want to have some safe GUIDs to use for personal usage, you can use the `Personal use` range.
 
 | User            |      Start ID |        End ID |
+| :-------------- | ------------: | ------------: |
 | *Personal use*  | 2.001.000.000 | 2.001.009.999 |
 
 ## Public GUID Ranges
