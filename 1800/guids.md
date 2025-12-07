@@ -82,6 +82,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Lady Meridonia  | 1.777.650.000 | 1.777.659.999 |
 | DonnyBresko     | 1.800.000.100 | 1.800.002.099 |
 | Alex.S.         | 1.800.003.000 | 1.800.004.000 |
+| SuppaiOnigiri   | 1.818.000.000 | 1.818.000.999 |
 | Hanthe2th       | 1.821.456.000 | 1.821.457.000 |
 | JohnSpoc        | 1.888.888.000 | 1.888.988.000 |
 | Satanoy         | 1.888.999.001 | 1.889.000.000 |
