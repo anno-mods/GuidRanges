@@ -46,6 +46,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | ewjax           | 2.000.101.000 | 2.000.101.999 |
 | *personal use*  | 2.001.000.000 | 2.001.009.999 |
 | Yodel Kindergarten | 2.023.000.000 | 2.023.099.999 |
+| arcalys         | 2.075.000.000 | 2.075.099.999 |
 | JimDiGriz77     | 2.077.000.000 | 2.077.099.999 |
 | Finchen         | 2.130.020.000 | 2.130.020.999 |
 | Fistfullobeer   | 2.140.000.000 | 2.140.019.999 |
