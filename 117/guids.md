@@ -32,6 +32,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | MrR0b3rt        | 1.500.030.000 | 1.500.039.999 |
 | Jester          | 1.500.040.000 | 1.500.049.999 |
 | mrfixit         | 1.500.050.000 | 1.500.059.999 |
+| Asmodai         | 1.500.060.000 | 1.500.069.999 |
 | HerrTurTur      | 1.500.113.000 | 1.500.113.999 |
 | Gensho          | 1.500.200.000 | 1.500.200.999 |
 | bergi           | 1.500.210.000 | 1.500.219.999 |
