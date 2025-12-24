@@ -382,4 +382,7 @@ Shift;Alt;V | pnski | Hotkey Cycle Ship Skins | Cycles through skins of the curr
 Shift;V | S1LV3R-p0tat0 | World War Ship | Next appearance-GUID of selected WW-ship |
 Shift;B | S1LV3R-p0tat0 | World War Ship | Previous appearance-GUID of selected WW-ship |
 Alt | S1LV3R-p0tat0 | World War Ship | Switch to Anti-air mode for WWS ships (code checks GUID of selection)  |
+Alt;C | Serpens66 | Cheat Keybinds | previous cheat |
+Alt;B | Serpens66 | Cheat Keybinds | next cheat |
+Alt;V | Serpens66 | Cheat Keybinds | trigger cheat |
 
