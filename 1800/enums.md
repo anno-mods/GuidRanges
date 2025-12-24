@@ -135,8 +135,8 @@ Mod4 | Taubenangriff | New Horizons |
 Mod5 | Taludas | Noblesse Oblige |
 Mod6 | NWTier4 | New World Tier 4 |
 Mod7 | Drakkam | New Population Merchants |
-Mod8 |
-Mod9 |
+Mod8 | Natoncy | Back to the Orient |
+Mod9 | Natoncy | Back to the Orient |
 Mod10 | Serp | shared Nature Participant (helper) |
 Mod11 | Serp | shared Trader piratemode-attackable (helper) |
 Mod12 |
@@ -160,7 +160,7 @@ Enum | Author | Mod
 --- | --- | ---
 Mod1 |
 Mod2 | Taubenangriff | New Horizons |
-Mod3 |
+Mod3 | Natoncy | Back to the Orient |
 
 ## SocketExclusiveGroup
 
@@ -191,7 +191,7 @@ Mod20 |
 
 Enum | Author | Mod
 --- | --- | ---
-Mod1 |
+Mod1 | Natoncy | Noria - Back to the Orient |
 Mod2 | Drakkam | New Population Merchants |
 Mod3 |
 Mod4 |
