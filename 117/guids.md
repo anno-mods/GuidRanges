@@ -40,6 +40,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Qurila          | 1.500.300.000 | 1.500.303.999 |
 | DukeJeans       | 1.500.500.000 | 1.500.504.999 |
 | Drakkam         | 1.555.000.000 | 1.555.099.999 |
+| Althandir/Altdolphin    | 1.600.000.000 | 1.600.000.999 |
 | Cheap Orange    | 1.700.100.000 | 1.700.109.999 |
 | sssCouchPotato  | 1.739.000.000 | 1.739.000.999 |
 | Hier0nimus      | 1.742.000.000 | 1.742.099.999 |
