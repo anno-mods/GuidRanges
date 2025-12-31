@@ -139,6 +139,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Shounbourgh     | 2.145.010.000 | 2.145.010.999 |
 | arcalys         | 2.145.100.000 | 2.145.100.999 |
 | CaptainHurricane | 2.146.000.000 | 2.146.000.999 |
+| Hyperion50 | 2.146.001.000 | 2.146.002.000 |
 | reserved for special cases       | 2.147.480.000 | 2.147.483.599 |
 | Jakob           | 2.147.483.600 | 2.147.483.609 |
 | reserved for special cases       | 2.147.483.610 | 2.147.483.647 |
