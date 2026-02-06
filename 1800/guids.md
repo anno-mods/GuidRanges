@@ -25,6 +25,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Combat Overhaul |     6.700.000 |     6.870.033 |
 | Spice it Up     |     8.855.000 |     8.857.999 |
 | WalGier         |     8.877.200 |     8.877.500 |
+| JohnSpoc        |     8.888.000 |     8.889.999 |
 | New Horizons    |    13.370.000 |    15.522.999 |
 | Barthi82        |    19.820.000 |    19.829.999 |
 | Spice it Up 2.8 |    99.334.100 |    99.334.199 |
