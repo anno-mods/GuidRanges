@@ -42,6 +42,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Drakkam         | 1.555.000.000 | 1.555.099.999 |
 | Althandir/Altdolphin    | 1.600.000.000 | 1.600.000.999 |
 | sntchk          | 1.602.000.000 | 1.602.009.999 |
+| s0soking        | 1.700.000.000 | 1.700.000.999 |
 | Cheap Orange    | 1.700.100.000 | 1.700.109.999 |
 | sssCouchPotato  | 1.739.000.000 | 1.739.000.999 |
 | Hier0nimus      | 1.742.000.000 | 1.742.099.999 |
