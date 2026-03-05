@@ -90,7 +90,7 @@ Mod12 | jje1000 | NW Tier 4 |
 Mod13 | jje1000 | NW Tier 4 | 
 Mod14 | jje1000 | NW Tier 4 | 
 Mod15 | Tisogno | Maya Treasures |
-Mod16 |
+Mod16 | Hyperion50 | Doctrinal Bridge
 Mod17 |
 Mod18 |
 Mod19 |
@@ -182,7 +182,7 @@ Mod13 |
 Mod14 |
 Mod15 | Tisogno | Horai Tourism
 Mod16 |
-Mod17 |
+Mod17 | Hyperion50 | Doctrinal Bridge
 Mod18 |
 Mod19 |
 Mod20 |
