@@ -86,12 +86,12 @@ Mod8 |
 Mod9 | Hier0nimus | Support Ships
 Mod10 | S1LV3R-p0tat0 / Hier0nimus | Torpedo Launcher
 Mod11 | S1LV3R-p0tat0 | Kamikaze Plane
-Mod12 | jje1000 | NW Tier 4 | 
-Mod13 | jje1000 | NW Tier 4 | 
-Mod14 | jje1000 | NW Tier 4 | 
+Mod12 | jje1000 | Edad de Oro |
+Mod13 | jje1000 | Edad de Oro |
+Mod14 | jje1000 | Edad de Oro |
 Mod15 | Tisogno | Maya Treasures |
 Mod16 | Hyperion50 | Doctrinal Bridge
-Mod17 |
+Mod17 | jje1000 | Edad de Oro |
 Mod18 |
 Mod19 |
 Mod20 |
@@ -133,7 +133,7 @@ Mod2 | Taubenangriff | New Horizons |
 Mod3 | Taubenangriff | New Horizons |
 Mod4 | Taubenangriff | New Horizons |
 Mod5 | Taludas | Noblesse Oblige |
-Mod6 | NWTier4 | New World Tier 4 |
+Mod6 | jje1000 | Edad de Oro |
 Mod7 | Drakkam | New Population Merchants |
 Mod8 | Natoncy | Back to the Orient |
 Mod9 | Natoncy | Back to the Orient |
@@ -193,7 +193,7 @@ Enum | Author | Mod
 --- | --- | ---
 Mod1 | Natoncy | Noria - Back to the Orient |
 Mod2 | Drakkam | New Population Merchants |
-Mod3 |
+Mod3 | jje1000 | Edad de Oro |
 Mod4 |
 Mod5 |
 Mod6 |
