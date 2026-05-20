@@ -23,6 +23,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | *reserved for special cases* | 1.337.471.142 | 1.337.471.999 |
 | Map Editor Exports | 1.337.472.000 | 1.337.472.999 |
 | Mensmaximus     | 1.337.477.000 | 1.337.478.999 |
+| louisthemad     | 1.337.484.000 | 1.337.493.999 |
 | muggenstuermer  | 1.337.500.000 | 1.337.519.999 |
 | schwubbe        | 1.357.000.000 | 1.357.009.999 |
 | Sabular/Sabunata| 1.360.000.000 | 1.360.099.999 |
