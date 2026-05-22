@@ -66,5 +66,6 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | DrMabuseistda   | 2.143.000.000 | 2.143.009.999 |
 | gz2k2           | 2.144.000.000 | 2.144.009.999 |
 | Hyperion50      | 2.146.001.000 | 2.146.002.000 |
+| Fist_of_Zen     | 2.146.002.001 | 2.146.004.000 |
 | reserved for special cases | 2.147.480.000 | 2.147.483.647 |
 | _**range end**_   | | 2.147.483.647 |
