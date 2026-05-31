@@ -27,6 +27,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | muggenstuermer  | 1.337.500.000 | 1.337.519.999 |
 | schwubbe        | 1.357.000.000 | 1.357.009.999 |
 | Sabular/Sabunata| 1.360.000.000 | 1.360.099.999 |
+| NRice           | 1.370.000.000 | 1.370.009.999 |
 | GaiusG          | 1.380.000.000 | 1.380.009.999 |
 | Callewu          | 1.390.008.000 | 1.390.018.999 |
 | Intetsch        | 1.400.201.000 | 1.400.201.999 |
