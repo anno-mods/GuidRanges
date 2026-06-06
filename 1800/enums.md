@@ -139,7 +139,7 @@ Mod8 | Natoncy | Back to the Orient |
 Mod9 | Natoncy | Back to the Orient |
 Mod10 | Serp | shared Nature Participant (helper) |
 Mod11 | Serp | shared Trader piratemode-attackable (helper) |
-Mod12 |
+Mod12 | Natoncy | Back to the Orient |
 Mod13 |
 Mod14 |
 Mod15 | Tisogno | Horai Tourism |
