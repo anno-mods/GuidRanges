@@ -69,7 +69,7 @@ Before reserving one of the 256 limited InternalIDs, you may try different code,
 | 64 | SDesign | SDesign |
 | 65 .. 67 | | |
 | 68 | Vanilla | Shrub System |
-| 69 | | |
+| 69 | Orient  | Simple Street Orient |
 | 70 | Vanilla | Canal System #1 (beautiful pond) |
 | 71 | Vanilla | - Crossing Canal-Street |
 | 72 | Vanilla | - Crossing Canal-FastStreet |
