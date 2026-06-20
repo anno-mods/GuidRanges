@@ -341,8 +341,8 @@ Stadium8 | nyk/pnski | MoreFestivalTypes_Nyk |
 Stadium9 | nyk/pnski | MoreFestivalTypes_Nyk |
 Stadium10 | nyk/pnski | MoreFestivalTypes_Nyk |
 Stadium12 | Taludas | Noblesse Oblige |
-Stadium13 | 
-Stadium14 | 
+Stadium13 | Natoncy | Return to the Orient |
+Stadium14 | Natoncy | Return to the Orient |
 Stadium15 | Tisogno | Mayan Treasures |
 
 
