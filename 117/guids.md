@@ -50,6 +50,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | sssCouchPotato  | 1.739.000.000 | 1.739.000.999 |
 | Hier0nimus      | 1.742.000.000 | 1.742.099.999 |
 | 0skater0        | 1.742.500.000 | 1.742.599.999 |
+| MaggusYT        | 1.800.000.000 | 1.800.999.999 |
 | Annonymos       | 1.852.000.000 | 1.852.000.999 |
 | Grusin99        | 1.900.000.000 | 1.900.009.999 |
 | Taludas         | 1.999.100.000 | 1.999.199.999 |
