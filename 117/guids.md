@@ -54,6 +54,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Annonymos       | 1.852.000.000 | 1.852.000.999 |
 | Grusin99        | 1.900.000.000 | 1.900.009.999 |
 | Taludas         | 1.999.100.000 | 1.999.199.999 |
+| spaardacus      | 1.999.200.000 | 1.999.299.999 |
 | Vadim           | 2.000.100.000 | 2.000.100.999 |
 | ewjax           | 2.000.101.000 | 2.000.101.999 |
 | *personal use*  | 2.001.000.000 | 2.001.009.999 |
