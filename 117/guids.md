@@ -58,7 +58,9 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Vadim           | 2.000.100.000 | 2.000.100.999 |
 | ewjax           | 2.000.101.000 | 2.000.101.999 |
 | *personal use*  | 2.001.000.000 | 2.001.009.999 |
-| Yodel Kindergarten | 2.023.000.000 | 2.023.099.999 |
+| Yodel Kindergarten | 2.023.000.000 | 2.023.199.999 |
+| *reserved*      | 2.023.200.000 | 2.023.999.999 |
+| *reserved*      | 2.024.000.000 | 2.039.999.999 |
 | Runacity        | 2.050.000.000 | 2.050.099.999 |
 | Judekw2070      | 2.070.000.000 | 2.070.099.999 |
 | arcalys         | 2.075.000.000 | 2.075.099.999 |
