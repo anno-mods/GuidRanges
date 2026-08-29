@@ -60,6 +60,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | agentquack      | 1.420.000.000 | 1.420.004.999 |
 | Spice it Up 3.0 | 1.440.133.000 | 1.440.137.199 |
 | Taubenangriff   | 1.440.138.000 | 1.440.138.999 |
+| -A-J-           | 1.450.150.000 | 1.450.170.000 |
 | Serp's Mods     | 1.500.000.000 | 1.500.010.000 |
 | Jakob           | 1.500.010.001 | 1.500.023.999 |
 | Rodagasto       | 1.500.024.000 | 1.500.024.999 |
