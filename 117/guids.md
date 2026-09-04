@@ -44,6 +44,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Qurila          | 1.500.300.000 | 1.500.303.999 |
 | DukeJeans       | 1.500.500.000 | 1.500.504.999 |
 | Drakkam         | 1.555.000.000 | 1.555.099.999 |
+| khayi           | 2.556.001.001 | 2.556.999.999 | 
 | Althandir/Altdolphin    | 1.600.000.000 | 1.600.000.999 |
 | sntchk          | 1.602.000.000 | 1.602.009.999 |
 | s0soking        | 1.700.000.000 | 1.700.000.999 |
