@@ -58,7 +58,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Taludas         | 1.999.100.000 | 1.999.199.999 |
 | spaardacus      | 1.999.200.000 | 1.999.299.999 |
 | Vadim           | 2.000.100.000 | 2.000.100.999 |
-| ewjax           | 2.000.101.000 | 2.000.101.999 |
+| ewjax           | 2.000.101.000 | 2.000.109.999 |
 | *personal use*  | 2.001.000.000 | 2.001.009.999 |
 | Yodel Kindergarten | 2.023.000.000 | 2.023.199.999 |
 | *reserved*      | 2.023.200.000 | 2.023.999.999 |
