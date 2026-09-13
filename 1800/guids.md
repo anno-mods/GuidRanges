@@ -137,6 +137,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | rty-666         | 2.130.023.000 | 2.130.023.999 |
 | Spectra Arcrex  | 2.140.000.000 | 2.140.000.999 |
 | Fistfullobeer   | 2.140.001.000 | 2.140.002.999 |
+| Western Frontier / Gteon-gi-do | 2.140.010.000 | 2.140.019.999 |
 | Wolfman         | 2.141.010.000 | 2.141.011.999 |
 | Lirvan          | 2.141.592.000 | 2.141.593.999 |
 | Evangeline      | 2.142.000.000 | 2.142.000.500 |
