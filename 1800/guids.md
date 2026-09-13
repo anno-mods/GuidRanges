@@ -87,6 +87,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | sd808           | 1.738.000.000 | 1.738.099.999 |
 | Hier0nimus      | 1.742.000.000 | 1.742.999.999 |
 | AnnoX7          | 1.743.000.000 | 1.744.999.999 |
+| Jopo-JP         | 1.750.000.000 | 1.750.099.999 |
 | Lady Meridonia  | 1.777.650.000 | 1.777.659.999 |
 | DonnyBresko     | 1.800.000.100 | 1.800.002.099 |
 | Alex.S.         | 1.800.003.000 | 1.800.004.000 |
