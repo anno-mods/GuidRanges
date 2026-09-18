@@ -62,6 +62,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Vadim           | 2.000.100.000 | 2.000.100.999 |
 | ewjax           | 2.000.101.000 | 2.000.109.999 |
 | *personal use*  | 2.001.000.000 | 2.001.009.999 |
+| Caliviper/Ekmek | 2.001.010.000 | 2.001.019.999 |
 | Yodel Kindergarten | 2.023.000.000 | 2.023.199.999 |
 | *reserved*      | 2.023.200.000 | 2.023.999.999 |
 | *reserved*      | 2.024.000.000 | 2.039.999.999 |
