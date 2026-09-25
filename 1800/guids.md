@@ -146,6 +146,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | SacklGlopfa     | 2.143.000.000 | 2.143.005.000 |
 | fran-t96        | 2.143.500.000 | 2.143.505.000 |
 | Khobs           | 2.143.505.001 | 2.143.559.999 |
+| gz2k2           | 2.144.000.000 | 2.144.009.999 |
 | Garthnait       | 2.145.000.001 | 2.145.009.999 |
 | Shounbourgh     | 2.145.010.000 | 2.145.010.999 |
 | arcalys         | 2.145.100.000 | 2.145.100.999 |
