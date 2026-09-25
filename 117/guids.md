@@ -32,6 +32,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Callewu          | 1.390.008.000 | 1.390.018.999 |
 | Intetsch        | 1.400.201.000 | 1.400.201.999 |
 | jtmzac          | 1.400.300.000 | 1.400.309.999 |
+| Eternyx         | 1.400.310.000 | 1.400.310.999 |
 | MrThanh         | 1.401.000.000 | 1.401.009.999 |
 | -A-J-           | 1.450.150.000 | 1.450.170.000 |
 | Serp's Mods     | 1.500.000.000 | 1.500.010.000 |
