@@ -138,6 +138,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Pinkcamouflage  | 2.130.022.000 | 2.130.022.999 |
 | rty-666         | 2.130.023.000 | 2.130.023.999 |
 | e-kon           | 2.130.024.000 | 2.130.024.999 |
+| Aleph           | 2.130.025.000 | 2.130.025.999 |
 | Spectra Arcrex  | 2.140.000.000 | 2.140.000.999 |
 | Fistfullobeer   | 2.140.001.000 | 2.140.002.999 |
 | Western Frontier / Gyeong-gi-do | 2.140.010.000 | 2.140.019.999 |
