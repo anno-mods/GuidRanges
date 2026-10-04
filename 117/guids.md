@@ -35,6 +35,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | jtmzac          | 1.400.300.000 | 1.400.309.999 |
 | Eternyx         | 1.400.310.000 | 1.400.319.999 |
 | MrThanh         | 1.401.000.000 | 1.401.009.999 |
+| BluesOn         | 1.402.000.000 | 1.402.009.999 |
 | -A-J-           | 1.450.150.000 | 1.450.170.000 |
 | Serp's Mods     | 1.500.000.000 | 1.500.010.000 |
 | MrR0b3rt        | 1.500.030.000 | 1.500.039.999 |
