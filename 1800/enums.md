@@ -2,7 +2,7 @@
 
 Please always consider alternatives before taking one of the precious enum slots.
 
-- [Mod Enums](#mod-enums)
+- [Anno 1800 Enums](#anno-1800-enums)
   - [FreeAreaType](#freeareatype)
   - [ItemAllocation](#itemallocation)
   - [ParticipantID](#participantid)
@@ -46,7 +46,7 @@ Hunter | Enbesa | Kurila | Cinnamon Orchard
 Hunter2 | Moderate | Taludas | Apple Orchard (Noblesse Oblige)
 Hunter2 | New World |  | 
 Hunter2 | Arctic | vanilla | Bear Hunter
-Hunter2 | Enbesa |  | 
+Hunter2 | Enbesa | Kurila | Hunting Cabin
 Citrus | Moderate | vanilla | Jam Orchard
 Citrus | New World | vanilla | Citrus Orchard
 Citrus | Arctic |  |
@@ -59,7 +59,9 @@ Camphor | Moderate | vanilla | Cherry Wood Orchard
 Camphor | New World | vanilla | Cinnamon Orchard, Camphor Wax Orchard
 Camphor | Arctic |  |
 Camphor | Enbesa | Kurila | Camphor Wax Orchard
-FirTrees | Enbesa | Kurila | Palm Oil Orchard
+CypressTrees | Enbesa | Kurila | Palm Oil Orchard
+Mod1 | Enbesa | Kurila | Almond Orchard
+Mod2 | Enbesa | Kurila | Ebony Orchard
 
 
 
