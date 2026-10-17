@@ -67,9 +67,11 @@ Before reserving one of the 256 limited InternalIDs, you may try different code,
 | 62 | Vanilla | BasePlateFenceAgricultureAfrica3 |
 | 63 | Vanilla | Crossing Rails-Quay |
 | 64 | SDesign | SDesign |
-| 65 .. 67 | | |
+| 65 | Natoncy | Canal Orient |
+| 66 | Natoncy | Crossing Canal-Street Orient |
+| 67 | Natoncy | Crossing Canal-FastStreet Orient |
 | 68 | Vanilla | Shrub System |
-| 69 | Orient  | Simple Street Orient |
+| 69 | Natoncy | Simple Street Orient |
 | 70 | Vanilla | Canal System #1 (beautiful pond) |
 | 71 | Vanilla | - Crossing Canal-Street |
 | 72 | Vanilla | - Crossing Canal-FastStreet |
