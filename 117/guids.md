@@ -1,4 +1,25 @@
 # Anno 117 GUID Ranges
+
+You can pick from the following *safe* GUID range: **1.337.471.142 - 2.147.483.647**.
+
+Start with a range of 1.000 GUIDs if you're unsure how much you need.
+10.000 GUIDs are usually enough.
+
+Avoid going above 100.000. If you do, make one entry per 100.000.
+
+## Personal GUID Range
+
+If you do not publish mods, but want to have some safe GUIDs to use for personal usage, you can use the `Personal use` range.
+
+| User            |      Start ID |        End ID |
+| :-------------- | ------------: | ------------: |
+| *Personal use*  | 2.001.000.000 | 2.001.009.999 |
+
+## Public GUID Ranges
+
+| User            |      Start ID |        End ID |
+| :-------------- | ------------: | ------------: |
+| _**range start**_   | 1.337.471.142 |  |
 | *reserved for special cases* | 1.337.471.142 | 1.337.471.999 |
 | Map Editor Exports | 1.337.472.000 | 1.337.472.999 |
 | dennish2602     | 1.337.473.000 | 1.337.474.999 |
@@ -72,4 +93,3 @@
 | hannover94      | 2.146.004.001 | 2.146.006.000 | 
 | reserved for special cases | 2.147.480.000 | 2.147.483.647 |
 | _**range end**_   | | 2.147.483.647 |
-
