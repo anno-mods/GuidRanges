@@ -79,6 +79,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Judekw2070      | 2.070.000.000 | 2.070.099.999 |
 | arcalys         | 2.075.000.000 | 2.075.099.999 |
 | JimDiGriz77     | 2.077.000.000 | 2.077.099.999 |
+| Przemek         | 2.080.000.000 | 2.080.099.999 |
 | LQ              | 2.100.000.000 | 2.100.009.999 |
 | gammelflei      | 2.110.000.000 | 2.110.000.999 |
 | Finchen         | 2.130.020.000 | 2.130.020.999 |
