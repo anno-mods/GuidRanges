@@ -137,11 +137,11 @@ Mod4 | Taubenangriff | New Horizons |
 Mod5 | Taludas | Noblesse Oblige |
 Mod6 | jje1000 | Edad de Oro |
 Mod7 | Drakkam | New Population Merchants |
-Mod8 | Natoncy | Return to the Orient |
-Mod9 | Natoncy | Return to the Orient |
+Mod8 | Natoncy | Back to the Orient |
+Mod9 | Natoncy | Back to the Orient |
 Mod10 | Serp | shared Nature Participant (helper) |
 Mod11 | Serp | shared Trader piratemode-attackable (helper) |
-Mod12 | Natoncy | Return to the Orient |
+Mod12 | Natoncy | Back to the Orient |
 Mod13 |
 Mod14 |
 Mod15 | Tisogno | Horai Tourism |
@@ -162,7 +162,7 @@ Enum | Author | Mod
 --- | --- | ---
 Mod1 |
 Mod2 | Taubenangriff | New Horizons |
-Mod3 | Natoncy | Return to the Orient |
+Mod3 | Natoncy | Back to the Orient |
 
 ## SocketExclusiveGroup
 
@@ -181,7 +181,7 @@ Mod10 |
 Mod11 |
 Mod12 |
 Mod13 |
-Mod14 | Natoncy | Return to the Orient
+Mod14 | Natoncy | Back to the Orient
 Mod15 | Tisogno | Horai Tourism
 Mod16 |
 Mod17 | Hyperion50 | Doctrinal Bridge
@@ -193,7 +193,7 @@ Mod20 |
 
 Enum | Author | Mod
 --- | --- | ---
-Mod1 | Natoncy | Return to the Orient |
+Mod1 | Natoncy | Noria - Back to the Orient |
 Mod2 | Drakkam | New Population Merchants |
 Mod3 | jje1000 | Edad de Oro |
 Mod4 |
@@ -252,7 +252,7 @@ Mod12 | Hier0nimus | Military Headquarters - Military Attention / Coastal Centre
 Mod13 | Hier0nimus | Forest Centre - White & Cold |
 Mod14 | jje1000 | Edad de Oro |
 Mod15 | Tisogno | Maya Treasure
-Mod16 | Natoncy | Return to the Orient
+Mod16 |
 Mod17 |
 Mod18 | Zazuno | Newspaper 
 Mod19 |
