@@ -61,6 +61,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | CaptainPandora  | 1.746.000.000 | 1.746.009.999 |   
 | Jopo-JP         | 1.750.000.000 | 1.750.099.999 |
 | MaggusYT        | 1.800.000.000 | 1.800.999.999 |
+| Aristarkh       | 1.811.700.000 | 1.811.709.999 |
 | Annonymos       | 1.852.000.000 | 1.852.000.999 |
 | Grusin99        | 1.900.000.000 | 1.900.009.999 |
 | pilotfish3      | 1.900.117.000 | 1.900.126.999 |
