@@ -101,8 +101,7 @@ Before reserving one of the 256 limited InternalIDs, you may try different code,
 | 100 | Jakob | NW Stone Pavement NW Greenery |
 | 101 | Jakob | OW Stone Concrete Industry |
 | 102 | Return to the Orient | Fast Street Orient |
-| 103 | Return to the Orient | Fast Street Bridge Orient |
-| 104 .. 114 | | | 
+| 103 .. 114 | | | 
 | 115 | New Horizon | Quay System Asia Fullcorner |
 | 116 | New Horizon | Quay System Asia Fullcorner Invisible |
 | 117 | New Horizon | Canal |
