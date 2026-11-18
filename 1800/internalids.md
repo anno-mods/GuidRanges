@@ -67,11 +67,11 @@ Before reserving one of the 256 limited InternalIDs, you may try different code,
 | 62 | Vanilla | BasePlateFenceAgricultureAfrica3 |
 | 63 | Vanilla | Crossing Rails-Quay |
 | 64 | SDesign | SDesign |
-| 65 | Natoncy | Canal Orient |
-| 66 | Natoncy | Crossing Canal-Street Orient |
-| 67 | Natoncy | Crossing Canal-FastStreet Orient |
+| 65 | Return to the Orient | Canal Orient |
+| 66 | Return to the Orient | Crossing Canal-Street Orient |
+| 67 | Return to the Orient | Crossing Canal-FastStreet Orient |
 | 68 | Vanilla | Shrub System |
-| 69 | Natoncy | Simple Street Orient |
+| 69 | Return to the Orient | Simple Street Orient |
 | 70 | Vanilla | Canal System #1 (beautiful pond) |
 | 71 | Vanilla | - Crossing Canal-Street |
 | 72 | Vanilla | - Crossing Canal-FastStreet |
@@ -100,7 +100,9 @@ Before reserving one of the 256 limited InternalIDs, you may try different code,
 | 96 | New Horizon | Quay System Asia Base Buildable |
 | 100 | Jakob | NW Stone Pavement NW Greenery |
 | 101 | Jakob | OW Stone Concrete Industry |
-| 102 .. 114 | | | 
+| 102 | Return to the Orient | Fast Street Orient |
+| 103 | Return to the Orient | Fast Street Bridge Orient |
+| 104 .. 114 | | | 
 | 115 | New Horizon | Quay System Asia Fullcorner |
 | 116 | New Horizon | Quay System Asia Fullcorner Invisible |
 | 117 | New Horizon | Canal |
