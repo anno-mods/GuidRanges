@@ -1,4 +1,3 @@
-<img width="1383" height="788" alt="image" src="https://github.com/user-attachments/assets/09880a55-9e92-4414-8219-7164f9fdd1b7" /># Anno 1800 GUID Ranges
 
 You can pick from the following *safe* GUID range: **1.337.471.142 - 2.147.483.647**.
 
