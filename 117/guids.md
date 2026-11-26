@@ -95,5 +95,6 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Fist_of_Zen     | 2.146.002.001 | 2.146.004.000 |
 | hannover94      | 2.146.004.001 | 2.146.006.000 |
 | fran-t96        | 2.146.006.001 | 2.146.011.000 |
+| Scipio_Panthero_117 | 2.146.012.000 | 2.146.012.999 |
 | reserved for special cases | 2.147.480.000 | 2.147.483.647 |
 | _**range end**_   | | 2.147.483.647 |
